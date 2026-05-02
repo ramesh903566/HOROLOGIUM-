@@ -2,6 +2,7 @@ import React from 'react';
 import { render, screen, fireEvent, cleanup } from '@testing-library/react';
 import '@testing-library/jest-dom/vitest';
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
+import gsap from 'gsap';
 import App from './App';
 
 // Mock GSAP and ScrollTrigger to prevent errors in the jsdom testing environment
@@ -11,6 +12,7 @@ vi.mock('gsap', () => {
       registerPlugin: vi.fn(),
       fromTo: vi.fn(),
       to: vi.fn(),
+      killTweensOf: vi.fn(),
     }
   };
 });
@@ -44,7 +46,12 @@ const createLocalStorageMock = () => {
 
 describe('App Component', () => {
   beforeEach(() => {
+    vi.clearAllMocks();
     vi.stubGlobal('localStorage', createLocalStorageMock());
+    vi.stubGlobal('fetch', vi.fn(async () => ({
+      ok: true,
+      json: async () => [],
+    })));
     vi.spyOn(window, 'scrollTo').mockImplementation(() => {});
     // Clear localStorage before each test to ensure a clean state
     localStorage.clear();
@@ -103,5 +110,49 @@ describe('App Component', () => {
     
     // Should now be updated to dark
     expect(document.documentElement.getAttribute('data-theme')).toBe('dark');
+  });
+
+  it('moves brand cover text with transform-only motion', async () => {
+    render(<App />);
+
+    fireEvent.click(screen.getByRole('button', { name: /^brands$/i }));
+    fireEvent.click(screen.getByText(/^IWC Schaffhausen$/i));
+
+    const coverTitle = await screen.findByRole('heading', { name: /^IWC Schaffhausen$/i });
+    const cover = coverTitle.closest('.brand-cover-luxury');
+
+    fireEvent.mouseEnter(cover);
+
+    const enterTween = gsap.to.mock.calls.find(([, vars]) => vars?.textAlign === 'center')?.[1];
+    expect(enterTween).toEqual(expect.objectContaining({
+      x: expect.any(Number),
+      y: expect.any(Number),
+      scale: 1,
+      textAlign: 'center',
+    }));
+    expect(enterTween).not.toHaveProperty('top');
+    expect(enterTween).not.toHaveProperty('bottom');
+    expect(enterTween).not.toHaveProperty('left');
+    expect(enterTween).not.toHaveProperty('width');
+    expect(enterTween).not.toHaveProperty('maxWidth');
+    expect(enterTween).not.toHaveProperty('xPercent');
+    expect(enterTween).not.toHaveProperty('yPercent');
+
+    fireEvent.mouseLeave(cover);
+
+    const leaveTween = gsap.to.mock.calls.find(([, vars]) => vars?.textAlign === 'left')?.[1];
+    expect(leaveTween).toEqual(expect.objectContaining({
+      x: 0,
+      y: 0,
+      scale: 1,
+      textAlign: 'left',
+    }));
+    expect(leaveTween).not.toHaveProperty('top');
+    expect(leaveTween).not.toHaveProperty('bottom');
+    expect(leaveTween).not.toHaveProperty('left');
+    expect(leaveTween).not.toHaveProperty('width');
+    expect(leaveTween).not.toHaveProperty('maxWidth');
+    expect(leaveTween).not.toHaveProperty('xPercent');
+    expect(leaveTween).not.toHaveProperty('yPercent');
   });
 });

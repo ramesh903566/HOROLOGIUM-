@@ -14,7 +14,8 @@
     "priceUSD": 6200,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA211/SBGA211_main.png",
-    "description": "The iconic textured white dial inspired by the snow of the Shinshu mountains."
+    "description": "The iconic textured white dial inspired by the snow of the Shinshu mountains.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga211g"
   },
   {
     "brand": "Grand Seiko",
@@ -31,7 +32,8 @@
     "priceUSD": 6600,
     "priceRange": "$6,500 - $7,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA413/SBGA413_main.png",
-    "description": "A pale pink dial capturing the essence of cherry blossoms on water (Hana-Ikada)."
+    "description": "A pale pink dial capturing the essence of cherry blossoms on water (Hana-Ikada).",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga413g"
   },
   {
     "brand": "Grand Seiko",
@@ -48,7 +50,8 @@
     "priceUSD": 6600,
     "priceRange": "$6,500 - $7,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA415/SBGA415_main.png",
-    "description": "A deep grey dial inspired by the winter snow in the Miyagi region."
+    "description": "A deep grey dial inspired by the winter snow in the Miyagi region.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga415g"
   },
   {
     "brand": "Grand Seiko",
@@ -65,7 +68,8 @@
     "priceUSD": 6300,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGH271/SBGH271_main.png",
-    "description": "A lush green dial with gold accents representing the vibrancy of early summer."
+    "description": "A lush green dial with gold accents representing the vibrancy of early summer.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgh271g"
   },
   {
     "brand": "Grand Seiko",
@@ -82,7 +86,8 @@
     "priceUSD": 6300,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGH273/SBGH273_main.png",
-    "description": "A dark blue dial reflecting the moonlit night of the autumnal equinox."
+    "description": "A dark blue dial reflecting the moonlit night of the autumnal equinox.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgh273g"
   },
   {
     "brand": "Grand Seiko",
@@ -99,7 +104,8 @@
     "priceUSD": 6300,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGJ201/SBGJ201_main.png",
-    "description": "Featuring the 'Mt. Iwate pattern' inspired by the ridges of the mountain."
+    "description": "Featuring the 'Mt. Iwate pattern' inspired by the ridges of the mountain.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -116,7 +122,8 @@
     "priceUSD": 6300,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGJ203/SBGJ203_main.png",
-    "description": "A sophisticated black dial with the iconic Mt. Iwate texture and GMT function."
+    "description": "A sophisticated black dial with the iconic Mt. Iwate texture and GMT function.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -133,7 +140,8 @@
     "priceUSD": 9500,
     "priceRange": "$9,000 - $11,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGH267/SBGH267_main.png",
-    "description": "Limited edition with a stunning blue radial mosaic dial celebrating 20 years of 9S."
+    "description": "Limited edition with a stunning blue radial mosaic dial celebrating 20 years of 9S.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgh267g"
   },
   {
     "brand": "Grand Seiko",
@@ -150,7 +158,8 @@
     "priceUSD": 5200,
     "priceRange": "$5,000 - $5,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA375/SBGA375_main.png",
-    "description": "A sharp 44GS case design paired with a deep midnight blue sunray dial."
+    "description": "A sharp 44GS case design paired with a deep midnight blue sunray dial.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga375g"
   },
   {
     "brand": "Grand Seiko",
@@ -167,7 +176,8 @@
     "priceUSD": 5200,
     "priceRange": "$5,000 - $5,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA373/SBGA373_main.png",
-    "description": "The classic champagne dial achieved through a multi-stage silk sunray process."
+    "description": "The classic champagne dial achieved through a multi-stage silk sunray process.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -184,7 +194,8 @@
     "priceUSD": 2200,
     "priceRange": "$2,000 - $2,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGX261/SBGX261_main.png",
-    "description": "The quintessential entry into Grand Seiko with the world-leading 9F quartz movement."
+    "description": "The quintessential entry into Grand Seiko with the world-leading 9F quartz movement.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgx261g"
   },
   {
     "brand": "Grand Seiko",
@@ -201,7 +212,8 @@
     "priceUSD": 2600,
     "priceRange": "$2,500 - $3,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGV223/SBGV223_main.png",
-    "description": "A larger 40mm quartz model with a glossy black dial and high-precision accuracy."
+    "description": "A larger 40mm quartz model with a glossy black dial and high-precision accuracy.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgv223g"
   },
   {
     "brand": "Grand Seiko",
@@ -218,7 +230,8 @@
     "priceUSD": 4900,
     "priceRange": "$4,500 - $5,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGR311/SBGR311_main.png",
-    "description": "A limited edition with a brown dial featuring a unique GS initials mosaic."
+    "description": "A limited edition with a brown dial featuring a unique GS initials mosaic.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgr311g"
   },
   {
     "brand": "Grand Seiko",
@@ -235,7 +248,8 @@
     "priceUSD": 3800,
     "priceRange": "$3,500 - $4,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGP017/SBGP017_main.png",
-    "description": "Limited edition quartz featuring a light blue dial inspired by the Unkai (Sea of Clouds)."
+    "description": "Limited edition quartz featuring a light blue dial inspired by the Unkai (Sea of Clouds).",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -252,7 +266,8 @@
     "priceUSD": 5000,
     "priceRange": "$4,800 - $5,200",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Heritage/SBGA427/SBGA427_main.png",
-    "description": "Light grey dial with green accents representing the frost at the end of autumn."
+    "description": "Light grey dial with green accents representing the frost at the end of autumn.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga427g"
   },
   {
     "brand": "Grand Seiko",
@@ -269,7 +284,8 @@
     "priceUSD": 4600,
     "priceRange": "$4,400 - $4,800",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGM221/SBGM221_main.png",
-    "description": "A cult favorite dress GMT with a warm ivory dial and heat-blued GMT hand."
+    "description": "A cult favorite dress GMT with a warm ivory dial and heat-blued GMT hand.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgm221g"
   },
   {
     "brand": "Grand Seiko",
@@ -286,7 +302,8 @@
     "priceUSD": 4300,
     "priceRange": "$4,000 - $4,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGW231/SBGW231_main.png",
-    "description": "The purest expression of Grand Seiko, a manual-wind watch with a box-shaped crystal."
+    "description": "The purest expression of Grand Seiko, a manual-wind watch with a box-shaped crystal.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -303,7 +320,8 @@
     "priceUSD": 8300,
     "priceRange": "$8,000 - $8,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGY007/SBGY007_main.png",
-    "description": "An ice-blue dial texture inspired by the frozen ripples of Lake Suwa."
+    "description": "An ice-blue dial texture inspired by the frozen ripples of Lake Suwa.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgy007g"
   },
   {
     "brand": "Grand Seiko",
@@ -320,7 +338,8 @@
     "priceUSD": 5800,
     "priceRange": "$5,500 - $6,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGA407/SBGA407_main.png",
-    "description": "The Snowflake texture reimagined on a light blue dial within an Elegance case."
+    "description": "The Snowflake texture reimagined on a light blue dial within an Elegance case.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbga407g"
   },
   {
     "brand": "Grand Seiko",
@@ -337,7 +356,8 @@
     "priceUSD": 4800,
     "priceRange": "$4,500 - $5,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGW283/SBGW283_main.png",
-    "description": "A pale blue dial reflecting the clear skies at the start of spring."
+    "description": "A pale blue dial reflecting the clear skies at the start of spring.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgw283g"
   },
   {
     "brand": "Grand Seiko",
@@ -354,7 +374,8 @@
     "priceUSD": 4800,
     "priceRange": "$4,500 - $5,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGW285/SBGW285_main.png",
-    "description": "A deep green dial inspired by the lush forests at the end of summer."
+    "description": "A deep green dial inspired by the lush forests at the end of summer.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgw285g"
   },
   {
     "brand": "Grand Seiko",
@@ -371,7 +392,8 @@
     "priceUSD": 4800,
     "priceRange": "$4,500 - $5,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGW287/SBGW287_main.png",
-    "description": "A deep red dial representing the shifting colors of autumn leaves."
+    "description": "A deep red dial representing the shifting colors of autumn leaves.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgw287g"
   },
   {
     "brand": "Grand Seiko",
@@ -388,7 +410,8 @@
     "priceUSD": 8100,
     "priceRange": "$7,800 - $8,300",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGY011/SBGY011_main.png",
-    "description": "A white textured dial capturing the moment when light breaks at dawn."
+    "description": "A white textured dial capturing the moment when light breaks at dawn.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgy011g"
   },
   {
     "brand": "Grand Seiko",
@@ -405,7 +428,8 @@
     "priceUSD": 6900,
     "priceRange": "$6,500 - $7,200",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGK007/SBGK007_main.png",
-    "description": "An ultra-thin manual wind watch with a silver sunray dial and sub-seconds."
+    "description": "An ultra-thin manual wind watch with a silver sunray dial and sub-seconds.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgk007g"
   },
   {
     "brand": "Grand Seiko",
@@ -422,7 +446,8 @@
     "priceUSD": 14800,
     "priceRange": "$14,000 - $15,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Elegance/SBGJ229/SBGJ229_main.png",
-    "description": "A bold limited edition featuring a blue ceramic outer case and high-beat GMT."
+    "description": "A bold limited edition featuring a blue ceramic outer case and high-beat GMT.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgj229g"
   },
   {
     "brand": "Grand Seiko",
@@ -439,7 +464,8 @@
     "priceUSD": 6800,
     "priceRange": "$6,500 - $7,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGJ237/SBGJ237_main.png",
-    "description": "A rugged GMT with a sapphire bi-color bezel for 24-hour tracking."
+    "description": "A rugged GMT with a sapphire bi-color bezel for 24-hour tracking.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgj237g"
   },
   {
     "brand": "Grand Seiko",
@@ -456,7 +482,8 @@
     "priceUSD": 6800,
     "priceRange": "$6,500 - $7,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGJ239/SBGJ239_main.png",
-    "description": "Features a deep green dial and a leather strap for a more vintage sport look."
+    "description": "Features a deep green dial and a leather strap for a more vintage sport look.",
+    "officialUrl": "https://www.grand-seiko.com/au-en/collections/sbgj239g"
   },
   {
     "brand": "Grand Seiko",
@@ -473,7 +500,8 @@
     "priceUSD": 6000,
     "priceRange": "$5,800 - $6,200",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGA229/SBGA229_main.png",
-    "description": "A heavy-duty professional diver with the high precision of Spring Drive."
+    "description": "A heavy-duty professional diver with the high precision of Spring Drive.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbga229g"
   },
   {
     "brand": "Grand Seiko",
@@ -490,7 +518,8 @@
     "priceUSD": 7100,
     "priceRange": "$6,800 - $7,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGA231/SBGA231_main.png",
-    "description": "The lightweight titanium version of Grand Seiko's iconic professional diver."
+    "description": "The lightweight titanium version of Grand Seiko's iconic professional diver.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbga231g"
   },
   {
     "brand": "Grand Seiko",
@@ -507,7 +536,8 @@
     "priceUSD": 3200,
     "priceRange": "$3,000 - $3,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGN003/SBGN003_main.png",
-    "description": "The perfect daily traveler's watch with an orange GMT hand and fixed steel bezel."
+    "description": "The perfect daily traveler's watch with an orange GMT hand and fixed steel bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -524,7 +554,8 @@
     "priceUSD": 3200,
     "priceRange": "$3,000 - $3,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGN005/SBGN005_main.png",
-    "description": "A striking sunray blue dial version of the high-precision 9F quartz GMT."
+    "description": "A striking sunray blue dial version of the high-precision 9F quartz GMT.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -541,7 +572,8 @@
     "priceUSD": 6200,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGE253/SBGE253_main.png",
-    "description": "Compact sport GMT with a scratch-resistant black ceramic bezel."
+    "description": "Compact sport GMT with a scratch-resistant black ceramic bezel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbge253g"
   },
   {
     "brand": "Grand Seiko",
@@ -558,7 +590,8 @@
     "priceUSD": 6200,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGE255/SBGE255_main.png",
-    "description": "Versatile sport GMT featuring a vibrant blue dial and matching ceramic bezel."
+    "description": "Versatile sport GMT featuring a vibrant blue dial and matching ceramic bezel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbge255g"
   },
   {
     "brand": "Grand Seiko",
@@ -575,7 +608,8 @@
     "priceUSD": 6200,
     "priceRange": "$6,000 - $6,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGE257/SBGE257_main.png",
-    "description": "Nature-inspired green dial sport GMT with a durable ceramic bezel."
+    "description": "Nature-inspired green dial sport GMT with a durable ceramic bezel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbge257g"
   },
   {
     "brand": "Grand Seiko",
@@ -592,7 +626,8 @@
     "priceUSD": 8200,
     "priceRange": "$7,800 - $8,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGC201/SBGC201_main.png",
-    "description": "One of the world's most accurate chronographs with unique oversized pushers."
+    "description": "One of the world's most accurate chronographs with unique oversized pushers.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Grand Seiko",
@@ -609,7 +644,8 @@
     "priceUSD": 3300,
     "priceRange": "$3,000 - $3,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGN027/SBGN027_main.png",
-    "description": "A monochrome sport GMT with a black dial and monochromatic 24-hour bezel."
+    "description": "A monochrome sport GMT with a black dial and monochromatic 24-hour bezel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgn027g"
   },
   {
     "brand": "Grand Seiko",
@@ -626,7 +662,8 @@
     "priceUSD": 3300,
     "priceRange": "$3,000 - $3,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGN029/SBGN029_main.png",
-    "description": "Blue dial variant of the 9F quartz GMT with a practical fixed steel bezel."
+    "description": "Blue dial variant of the 9F quartz GMT with a practical fixed steel bezel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgn029g"
   },
   {
     "brand": "Grand Seiko",
@@ -643,7 +680,8 @@
     "priceUSD": 3000,
     "priceRange": "$2,500 - $3,200",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGV243/SBGV243_main.png",
-    "description": "Built for durability with a cordura strap and yellow accents on a black dial."
+    "description": "Built for durability with a cordura strap and yellow accents on a black dial.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgv243j"
   },
   {
     "brand": "Grand Seiko",
@@ -660,7 +698,8 @@
     "priceUSD": 3000,
     "priceRange": "$2,800 - $3,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGV245/SBGV245_main.png",
-    "description": "A cult favorite quartz field watch with a unique grey textured dial."
+    "description": "A cult favorite quartz field watch with a unique grey textured dial.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgv245j"
   },
   {
     "brand": "Grand Seiko",
@@ -677,7 +716,8 @@
     "priceUSD": 5450,
     "priceRange": "$5,000 - $5,800",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Sport/SBGN023/SBGN023_main.png",
-    "description": "Limited edition with a ceramic bezel and gold accents celebrating 140 years of Seiko."
+    "description": "Limited edition with a ceramic bezel and gold accents celebrating 140 years of Seiko.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/special/sbgn023"
   },
   {
     "brand": "Grand Seiko",
@@ -694,7 +734,8 @@
     "priceUSD": 9100,
     "priceRange": "$8,500 - $9,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGH005/SLGH005_main.png",
-    "description": "Award-winning design featuring the revolutionary dual-impulse escapement 9SA5."
+    "description": "Award-winning design featuring the revolutionary dual-impulse escapement 9SA5.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slgh005g"
   },
   {
     "brand": "Grand Seiko",
@@ -711,7 +752,8 @@
     "priceUSD": 9100,
     "priceRange": "$8,500 - $9,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGA009/SLGA009_main.png",
-    "description": "The Spring Drive version of the White Birch with a 5-day power reserve."
+    "description": "The Spring Drive version of the White Birch with a 5-day power reserve.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slga009g"
   },
   {
     "brand": "Grand Seiko",
@@ -728,7 +770,8 @@
     "priceUSD": 10400,
     "priceRange": "$10,000 - $11,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGH017/SLGH017_main.png",
-    "description": "A dark, moody interpretation of the birch forest in titanium."
+    "description": "A dark, moody interpretation of the birch forest in titanium.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slgh017g"
   },
   {
     "brand": "Grand Seiko",
@@ -745,7 +788,8 @@
     "priceUSD": 9100,
     "priceRange": "$8,800 - $9,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGA021/SLGA021_main.png",
-    "description": "A dark blue dial with subtle ripples representing Lake Suwa in the early morning."
+    "description": "A dark blue dial with subtle ripples representing Lake Suwa in the early morning.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slga021g"
   },
   {
     "brand": "Grand Seiko",
@@ -762,7 +806,8 @@
     "priceUSD": 13700,
     "priceRange": "$13,000 - $14,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGC001/SLGC001_main.png",
-    "description": "Grand Seiko's first mechanical chronograph, featuring a high-beat 10-beat movement."
+    "description": "Grand Seiko's first mechanical chronograph, featuring a high-beat 10-beat movement.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slgc001g"
   },
   {
     "brand": "Grand Seiko",
@@ -779,7 +824,8 @@
     "priceUSD": 11600,
     "priceRange": "$11,000 - $12,500",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGA015/SLGA015_main.png",
-    "description": "A next-generation diver with a 'Black Stream' textured dial and 5-day Spring Drive."
+    "description": "A next-generation diver with a 'Black Stream' textured dial and 5-day Spring Drive.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slga015g"
   },
   {
     "brand": "Grand Seiko",
@@ -796,7 +842,8 @@
     "priceUSD": 10400,
     "priceRange": "$10,000 - $11,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGA019/SLGA019_main.png",
-    "description": "The titanium version of the blue ripple Suwa dial with Evolution 9 aesthetics."
+    "description": "The titanium version of the blue ripple Suwa dial with Evolution 9 aesthetics.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slga019g"
   },
   {
     "brand": "Grand Seiko",
@@ -813,7 +860,8 @@
     "priceUSD": 9500,
     "priceRange": "$9,000 - $10,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Evolution9/SLGH013/SLGH013_main.png",
-    "description": "Features light blue textured dial and highly corrosion-resistant steel."
+    "description": "Features light blue textured dial and highly corrosion-resistant steel.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/slgh013g"
   },
   {
     "brand": "Grand Seiko",
@@ -830,7 +878,8 @@
     "priceUSD": 76000,
     "priceRange": "$70,000 - $80,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Masterpiece/SBGZ001/SBGZ001_main.png",
-    "description": "An exquisite masterpiece with a hand-engraved platinum case and snowflake dial."
+    "description": "An exquisite masterpiece with a hand-engraved platinum case and snowflake dial.",
+    "officialUrl": "https://www.grand-seiko.com/cn-zh/collections/sbgz001j"
   },
   {
     "brand": "Grand Seiko",
@@ -847,6 +896,7 @@
     "priceUSD": 59000,
     "priceRange": "$55,000 - $65,000",
     "image": "https://www.grand-seiko.com/images/-/media/Images/GrandSeiko/Global/Collections/Masterpiece/SBGD201/SBGD201_main.png",
-    "description": "Features a diamond dust dial and an incredible 8-day power reserve from three barrels."
+    "description": "Features a diamond dust dial and an incredible 8-day power reserve from three barrels.",
+    "officialUrl": "https://www.grand-seiko.com/us-en/collections/sbgd201j"
   }
 ]

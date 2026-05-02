@@ -14,7 +14,8 @@
     "priceUSD": 9100,
     "priceRange": "$7,000 - $8,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0138211B1A1-navitimer-b01-chronograph-43-1.png",
-    "description": "The definitive pilot's watch with an integrated circular slide rule."
+    "description": "The definitive pilot's watch with an integrated circular slide rule.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/navitimer/navitimer-b01-chronograph-43-my22/AB0138211B1A1/"
   },
   {
     "brand": "Breitling",
@@ -31,7 +32,8 @@
     "priceUSD": 5400,
     "priceRange": "$4,000 - $5,000",
     "image": "https://www.breitling.com/media/image/1/base/AB2010121B1A1-superocean-heritage-b20-automatic-42-1.png",
-    "description": "Inspired by the original 1950s Superocean, featuring a ceramic bezel."
+    "description": "Inspired by the original 1950s Superocean, featuring a ceramic bezel.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/superocean-heritage/superocean-heritage-b20-automatic-42/AB2010121B1A1/"
   },
   {
     "brand": "Breitling",
@@ -48,7 +50,8 @@
     "priceUSD": 8000,
     "priceRange": "$6,500 - $7,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0147101B1A1-avenger-b01-chronograph-44-1.png",
-    "description": "A robust, high-performance tool watch for extreme aerial adventures."
+    "description": "A robust, high-performance tool watch for extreme aerial adventures.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/avenger/avenger-b01-chronograph-44-my23/AB0147101B1A1/"
   },
   {
     "brand": "Breitling",
@@ -65,7 +68,8 @@
     "priceUSD": 8750,
     "priceRange": "$6,000 - $7,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0134101B1A1-chronomat-b01-42-1.png",
-    "description": "Features the iconic Rouleaux bracelet and rider tabs on the bezel."
+    "description": "Features the iconic Rouleaux bracelet and rider tabs on the bezel.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/chronomat/chronomat-b01-42/AB0134101B1A1/"
   },
   {
     "brand": "Breitling",
@@ -82,7 +86,8 @@
     "priceUSD": 8600,
     "priceRange": "$5,500 - $7,000",
     "image": "https://www.breitling.com/media/image/1/base/AB0118221G1P1-premier-b01-chronograph-42-1.png",
-    "description": "Elegant and refined, bringing Breitling's watchmaking to a dressier context."
+    "description": "Elegant and refined, bringing Breitling's watchmaking to a dressier context.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -99,7 +104,8 @@
     "priceUSD": 5000,
     "priceRange": "$3,500 - $4,500",
     "image": "https://www.breitling.com/media/image/1/base/A17375E11C1A1-superocean-automatic-42-1.png",
-    "description": "Features a distinctive white minute ring and oversized hands for legibility."
+    "description": "Features a distinctive white minute ring and oversized hands for legibility.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -116,7 +122,8 @@
     "priceUSD": 8000,
     "priceRange": "$7,000 - $9,000",
     "image": "https://www.breitling.com/media/image/1/base/AB01765A1B1X1-top-time-b01-deus-1.png",
-    "description": "Made in collaboration with Deus Ex Machina, with a lightning-bolt second hand."
+    "description": "Made in collaboration with Deus Ex Machina, with a lightning-bolt second hand.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/top-time/top-time-b01/AB01765A1B1X1/"
   },
   {
     "brand": "Breitling",
@@ -133,7 +140,8 @@
     "priceUSD": 15600,
     "priceRange": "$8,000 - $11,000",
     "image": "https://static.chrono24.com/images/uhren/28225672-9p5g1w8j3f5l4n2m8q9r.jpg",
-    "description": "The world's first wristwatch with a built-in dual frequency distress beacon."
+    "description": "The world's first wristwatch with a built-in dual frequency distress beacon.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -150,7 +158,8 @@
     "priceUSD": 9400,
     "priceRange": "$7,500 - $9,000",
     "image": "https://www.breitling.com/media/image/1/base/AB0137211B1A1-navitimer-b01-chronograph-46-1.png",
-    "description": "The larger presence of the aviation icon for maximum legibility."
+    "description": "The larger presence of the aviation icon for maximum legibility.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -167,7 +176,8 @@
     "priceUSD": 4800,
     "priceRange": "$3,500 - $4,500",
     "image": "https://www.breitling.com/media/image/1/base/A10370121B1A1-superocean-heritage-57-1.png",
-    "description": "Capsule collection honoring the 1950s surfing lifestyle."
+    "description": "Capsule collection honoring the 1950s surfing lifestyle.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/superocean-heritage/superocean-heritage-57-42mm/A10370121B1A1/"
   },
   {
     "brand": "Breitling",
@@ -184,7 +194,8 @@
     "priceUSD": 3400,
     "priceRange": "$2,500 - $3,200",
     "image": "https://www.breitling.com/media/image/1/base/X82310281B1S1-endurance-pro-1.png",
-    "description": "Ultra-lightweight sports chronograph with high-accuracy SuperQuartz."
+    "description": "Ultra-lightweight sports chronograph with high-accuracy SuperQuartz.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -201,7 +212,8 @@
     "priceUSD": 8500,
     "priceRange": "$6,000 - $7,500",
     "image": "https://www.breitling.com/media/image/1/base/A10380611C1P1-chronomat-automatic-36-south-sea-1.png",
-    "description": "Elegant lady's piece with a lacquered dial and gem-set indexes."
+    "description": "Elegant lady's piece with a lacquered dial and gem-set indexes.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/chronomat/chronomat-automatic-36/A10380611C1P1/"
   },
   {
     "brand": "Breitling",
@@ -218,7 +230,8 @@
     "priceUSD": 9000,
     "priceRange": "$7,000 - $8,200",
     "image": "https://www.breitling.com/media/image/1/base/AB0139211G1G1-navitimer-b01-chronograph-41-1.png",
-    "description": "Perfectly sized 41mm integrated chronograph for the classic pilot aesthetic."
+    "description": "Perfectly sized 41mm integrated chronograph for the classic pilot aesthetic.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -235,7 +248,8 @@
     "priceUSD": 5200,
     "priceRange": "$3,800 - $4,800",
     "image": "https://www.breitling.com/media/image/1/base/A17376211B1A1-superocean-automatic-44-1.png",
-    "description": "A high-performance divers' watch with a bold technical look."
+    "description": "A high-performance divers' watch with a bold technical look.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/superocean/superocean-automatic-44-my22/A17376211B1A1/"
   },
   {
     "brand": "Breitling",
@@ -252,7 +266,8 @@
     "priceUSD": 8600,
     "priceRange": "$6,000 - $7,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0930D31L1P1-premier-b09-chronograph-40-1.png",
-    "description": "Manual-wind chronograph with a charming pistachio green dial."
+    "description": "Manual-wind chronograph with a charming pistachio green dial.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/premier/premier-b09-chronograph-40/AB0930371G1P1/"
   },
   {
     "brand": "Breitling",
@@ -269,7 +284,8 @@
     "priceUSD": 4900,
     "priceRange": "$3,500 - $4,500",
     "image": "https://www.breitling.com/media/image/1/base/A32397101B1A1-avenger-automatic-gmt-43-1.png",
-    "description": "Combines high water resistance with a second time zone indicator."
+    "description": "Combines high water resistance with a second time zone indicator.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -286,7 +302,8 @@
     "priceUSD": 8000,
     "priceRange": "$7,000 - $8,500",
     "image": "https://www.breitling.com/media/image/1/base/AB01763A1C1X1-top-time-b01-shelby-cobra-1.png",
-    "description": "Celebrates the blue and white of the iconic Carroll Shelby Cobra."
+    "description": "Celebrates the blue and white of the iconic Carroll Shelby Cobra.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/top-time/top-time-b01/AB01763A1C1X1/"
   },
   {
     "brand": "Breitling",
@@ -303,7 +320,8 @@
     "priceUSD": 4500,
     "priceRange": "$2,500 - $3,500",
     "image": "https://www.breitling.com/media/image/1/base/E79363101B1E1-aerospace-evo-1.png",
-    "description": "Multi-functional analog-digital watch in lightweight titanium."
+    "description": "Multi-functional analog-digital watch in lightweight titanium.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/professional/aerospace-evo/E79363101B1E1/"
   },
   {
     "brand": "Breitling",
@@ -320,7 +338,8 @@
     "priceUSD": 9500,
     "priceRange": "$7,000 - $8,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0136251B1A1-super-chronomat-b01-44-1.png",
-    "description": "Enhanced version with ceramic bezel and pushers for an aggressive look."
+    "description": "Enhanced version with ceramic bezel and pushers for an aggressive look.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -337,7 +356,8 @@
     "priceUSD": 4800,
     "priceRange": "$3,500 - $4,200",
     "image": "https://www.breitling.com/media/image/1/base/A17377211G1S1-superocean-automatic-36-1.png",
-    "description": "Refreshing all-white design for smaller wrists without sacrificing capability."
+    "description": "Refreshing all-white design for smaller wrists without sacrificing capability.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -354,7 +374,8 @@
     "priceUSD": 13500,
     "priceRange": "$11,000 - $14,000",
     "image": "https://www.breitling.com/media/image/1/base/AB2510201K1P1-premier-b25-datora-42-1.png",
-    "description": "Features a complete calendar and moon phase in a salmon dial aesthetic."
+    "description": "Features a complete calendar and moon phase in a salmon dial aesthetic.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/premier/premier-b25-datora-42/AB2510201K1P1/"
   },
   {
     "brand": "Breitling",
@@ -371,7 +392,8 @@
     "priceUSD": 9300,
     "priceRange": "$7,500 - $9,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0138241G1P1-navitimer-b01-chronograph-43-1.png",
-    "description": "A stunning ice-blue dial version of the modern Navitimer."
+    "description": "A stunning ice-blue dial version of the modern Navitimer.",
+    "officialUrl": "https://www.breitling.com/za-en/watches/navitimer/navitimer-b01-chronograph-43-my22/AB0138241C1A1/"
   },
   {
     "brand": "Breitling",
@@ -388,7 +410,8 @@
     "priceUSD": 6200,
     "priceRange": "$4,000 - $5,500",
     "image": "https://www.breitling.com/media/image/1/base/V13317101B1X1-avenger-chronograph-45-night-mission-1.png",
-    "description": "Stealthy black execution of the robust Avenger chronograph."
+    "description": "Stealthy black execution of the robust Avenger chronograph.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/avenger/avenger-chronograph-45/V13317101B1X1/"
   },
   {
     "brand": "Breitling",
@@ -405,7 +428,8 @@
     "priceUSD": 8000,
     "priceRange": "$7,000 - $8,500",
     "image": "https://www.breitling.com/media/image/1/base/AB01764A1C1X1-top-time-b01-triumph-1.png",
-    "description": "Features a unique 'Zorro' dial in ice blue, made with Triumph motorcycles."
+    "description": "Features a unique 'Zorro' dial in ice blue, made with Triumph motorcycles.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/top-time/top-time-b01/AB01764A1C1X1/"
   },
   {
     "brand": "Breitling",
@@ -422,7 +446,8 @@
     "priceUSD": 8300,
     "priceRange": "$5,500 - $7,000",
     "image": "https://www.breitling.com/media/image/1/base/AB0162121B1A1-superocean-heritage-b01-chronograph-44-1.png",
-    "description": "Combines the B01 manufacture movement with the 50s diver aesthetic."
+    "description": "Combines the B01 manufacture movement with the 50s diver aesthetic.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -439,7 +464,8 @@
     "priceUSD": 11500,
     "priceRange": "$5,000 - $8,000",
     "image": "https://static.chrono24.com/images/uhren/12345678-abcd.jpg",
-    "description": "Features a '30-second chronograph' system and knurled bezel inspired by Bentley."
+    "description": "Features a '30-second chronograph' system and knurled bezel inspired by Bentley.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -456,7 +482,8 @@
     "priceUSD": 5950,
     "priceRange": "$4,500 - $5,500",
     "image": "https://www.breitling.com/media/image/1/base/A32398101B1A1-chronomat-automatic-gmt-40-1.png",
-    "description": "Versatile all-purpose sports watch with a functional dual time display."
+    "description": "Versatile all-purpose sports watch with a functional dual time display.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/chronomat/chronomat-automatic-gmt-40/A32398101B1A1/"
   },
   {
     "brand": "Breitling",
@@ -473,7 +500,8 @@
     "priceUSD": 11200,
     "priceRange": "$9,000 - $12,000",
     "image": "https://www.breitling.com/media/image/1/base/PB02301A1B1P1-navitimer-b02-chronograph-41-cosmonaute-1.png",
-    "description": "The 24-hour dial variant worn by Scott Carpenter in space in 1962."
+    "description": "The 24-hour dial variant worn by Scott Carpenter in space in 1962.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -490,7 +518,8 @@
     "priceUSD": 8900,
     "priceRange": "$3,500 - $5,000",
     "image": "https://www.breitling.com/media/image/1/base/EB5510H11B1E1-exospace-b55-1.png",
-    "description": "Connected chronograph designed specifically for pilots and yachtspeople."
+    "description": "Connected chronograph designed specifically for pilots and yachtspeople.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -507,7 +536,8 @@
     "priceUSD": 10500,
     "priceRange": "$8,000 - $10,000",
     "image": "https://www.breitling.com/media/image/1/base/AB1510171C1P1-premier-b15-duograph-42-1.png",
-    "description": "A split-seconds chronograph that represents the peak of Breitling's heritage."
+    "description": "A split-seconds chronograph that represents the peak of Breitling's heritage.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/premier/premier-b15-duograph-42/AB1510171C1P1/"
   },
   {
     "brand": "Breitling",
@@ -524,7 +554,8 @@
     "priceUSD": 6500,
     "priceRange": "$4,500 - $5,800",
     "image": "https://www.breitling.com/media/image/1/base/UB2010121B1S1-superocean-heritage-b20-automatic-42-1.png",
-    "description": "Elegant two-tone version of the vintage-inspired diver."
+    "description": "Elegant two-tone version of the vintage-inspired diver.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/superocean-heritage/superocean-heritage-b20-automatic-42/UB2010121B1S1/"
   },
   {
     "brand": "Breitling",
@@ -541,7 +572,8 @@
     "priceUSD": 11500,
     "priceRange": "$8,000 - $10,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0310211G1A1-navitimer-b03-chronograph-rattrapante-45-1.png",
-    "description": "Features a complex split-seconds mechanism developed entirely in-house."
+    "description": "Features a complex split-seconds mechanism developed entirely in-house.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -558,7 +590,8 @@
     "priceUSD": 3600,
     "priceRange": "$2,200 - $3,000",
     "image": "https://static.chrono24.com/images/uhren/11223344-xyz.jpg",
-    "description": "A straightforward, ultra-robust tool watch known for its reliability."
+    "description": "A straightforward, ultra-robust tool watch known for its reliability.",
+    "officialUrl": "https://www.breitling.com/za-en/watches/colt/colt-automatic/A17388101C1A1/"
   },
   {
     "brand": "Breitling",
@@ -575,7 +608,8 @@
     "priceUSD": 11200,
     "priceRange": "$4,000 - $6,000",
     "image": "https://static.chrono24.com/images/uhren/22334455-xyz.jpg",
-    "description": "Universal world time chronograph for the intercontinental traveler."
+    "description": "Universal world time chronograph for the intercontinental traveler.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -592,7 +626,8 @@
     "priceUSD": 8000,
     "priceRange": "$7,000 - $8,800",
     "image": "https://www.breitling.com/media/image/1/base/AB01762A1L1X1-top-time-b01-ford-mustang-1.png",
-    "description": "Green and black chronograph honoring the first-generation Ford Mustang."
+    "description": "Green and black chronograph honoring the first-generation Ford Mustang.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/top-time/top-time-b01/AB01762A1L1X1/"
   },
   {
     "brand": "Breitling",
@@ -609,7 +644,8 @@
     "priceUSD": 8750,
     "priceRange": "$6,000 - $7,800",
     "image": "https://www.breitling.com/media/image/1/base/AB0134101K1A1-chronomat-b01-42-1.png",
-    "description": "Features a unique copper 'salmon' dial and the signature Rouleaux bracelet."
+    "description": "Features a unique copper 'salmon' dial and the signature Rouleaux bracelet.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -626,7 +662,8 @@
     "priceUSD": 5800,
     "priceRange": "$3,000 - $4,500",
     "image": "https://static.chrono24.com/images/uhren/33445566-abc.jpg",
-    "description": "A sophisticated versatile watch for women who appreciate technical mastery."
+    "description": "A sophisticated versatile watch for women who appreciate technical mastery.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -643,7 +680,8 @@
     "priceUSD": 4500,
     "priceRange": "$2,800 - $3,800",
     "image": "https://static.chrono24.com/images/uhren/44556677-abc.jpg",
-    "description": "The large first-generation Heritage model with a classic mesh bracelet."
+    "description": "The large first-generation Heritage model with a classic mesh bracelet.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -660,7 +698,8 @@
     "priceUSD": 5100,
     "priceRange": "$2,800 - $4,000",
     "image": "https://www.breitling.com/media/image/1/base/V17311101B1W1-avenger-blackbird-44-1.png",
-    "description": "A stealthy and lightweight pilot watch with an ultra-durable carbon-treated case."
+    "description": "A stealthy and lightweight pilot watch with an ultra-durable carbon-treated case.",
+    "officialUrl": "https://www.breitling.com/za-en/watches/avenger/avenger-blackbird-44/V17311101B1W1/"
   },
   {
     "brand": "Breitling",
@@ -677,7 +716,8 @@
     "priceUSD": 6200,
     "priceRange": "$4,000 - $5,500",
     "image": "https://static.chrono24.com/images/uhren/55667788-abc.jpg",
-    "description": "A slightly smaller Navitimer with a tone-on-tone blue dial."
+    "description": "A slightly smaller Navitimer with a tone-on-tone blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -694,7 +734,8 @@
     "priceUSD": 4100,
     "priceRange": "$3,000 - $3,800",
     "image": "https://www.breitling.com/media/image/1/base/A77310101K1A1-chronomat-32-1.png",
-    "description": "Sporty-chic lady's model with a beautiful light pink dial."
+    "description": "Sporty-chic lady's model with a beautiful light pink dial.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/chronomat/chronomat-32/A77310101K1A1/"
   },
   {
     "brand": "Breitling",
@@ -711,7 +752,8 @@
     "priceUSD": 3200,
     "priceRange": "$2,000 - $3,200",
     "image": "https://static.chrono24.com/images/uhren/66778899-abc.jpg",
-    "description": "A legendary deep-sea diver water-resistant to a staggering 2000 meters."
+    "description": "A legendary deep-sea diver water-resistant to a staggering 2000 meters.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -728,7 +770,8 @@
     "priceUSD": 4500,
     "priceRange": "$3,000 - $4,200",
     "image": "https://www.breitling.com/media/image/1/base/A17331101I1A1-avenger-ii-seawolf-1.png",
-    "description": "Instantly recognizable with its bright 'Cobra Yellow' dial and extreme depth rating."
+    "description": "Instantly recognizable with its bright 'Cobra Yellow' dial and extreme depth rating.",
+    "officialUrl": "https://www.breitling.com/za-en/watches/avenger/avenger-ii-seawolf/A17331101I1A1/"
   },
   {
     "brand": "Breitling",
@@ -745,7 +788,8 @@
     "priceUSD": 8500,
     "priceRange": "$5,000 - $7,000",
     "image": "https://static.chrono24.com/images/uhren/77889900-fff.jpg",
-    "description": "Limited edition celebrating the festival of motorcycles, surfing, and skating."
+    "description": "Limited edition celebrating the festival of motorcycles, surfing, and skating.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -762,7 +806,8 @@
     "priceUSD": 9200,
     "priceRange": "$4,500 - $6,500",
     "image": "https://static.chrono24.com/images/uhren/88990011-abc.jpg",
-    "description": "Commemorates the invention of the first independent chronograph pusher in 1915."
+    "description": "Commemorates the invention of the first independent chronograph pusher in 1915.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -779,7 +824,8 @@
     "priceUSD": 8300,
     "priceRange": "$6,000 - $7,500",
     "image": "https://www.breitling.com/media/image/1/base/AB0162121C1A1-superocean-heritage-b01-chronograph-44-1.png",
-    "description": "Deep blue dial version with silver sub-dials and manufacture movement."
+    "description": "Deep blue dial version with silver sub-dials and manufacture movement.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -796,7 +842,8 @@
     "priceUSD": 5100,
     "priceRange": "$3,800 - $4,800",
     "image": "https://www.breitling.com/media/image/1/base/A10380101L1A1-chronomat-automatic-36-1.png",
-    "description": "Modern lady's automatic with a refreshing mint green sunray dial."
+    "description": "Modern lady's automatic with a refreshing mint green sunray dial.",
+    "officialUrl": "https://www.breitling.com/us-en/watches/chronomat/chronomat-automatic-36/A10380101L1A1/"
   },
   {
     "brand": "Breitling",
@@ -813,7 +860,8 @@
     "priceUSD": 4100,
     "priceRange": "$2,500 - $3,500",
     "image": "https://www.breitling.com/media/image/1/base/A17314101B1A1-aviator-8-automatic-41-1.png",
-    "description": "A cleaner Navitimer design without the slide rule, inspired by board clocks."
+    "description": "A cleaner Navitimer design without the slide rule, inspired by board clocks.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -830,7 +878,8 @@
     "priceUSD": 8000,
     "priceRange": "$6,500 - $7,800",
     "image": "https://www.breitling.com/media/image/1/base/AB0147101C1A1-avenger-b01-chronograph-44-1.png",
-    "description": "The latest Avenger chronograph with a deep blue dial and manufacture movement."
+    "description": "The latest Avenger chronograph with a deep blue dial and manufacture movement.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Breitling",
@@ -847,6 +896,7 @@
     "priceUSD": 9500,
     "priceRange": "$4,000 - $6,000",
     "image": "https://www.breitling.com/media/image/1/base/VB5510H21B1W1-exospace-b55-1.png",
-    "description": "Stealthy black titanium connected watch with blue rubber strap."
+    "description": "Stealthy black titanium connected watch with blue rubber strap.",
+    "officialUrlStatus": "not_found"
   }
 ]

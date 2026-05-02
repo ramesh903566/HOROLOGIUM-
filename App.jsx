@@ -56,6 +56,34 @@ const BRANDS_DATA = [
   { name: 'Richard Mille', country: 'Switzerland', founded: 2001, tier: TIERS.HAUTE_HORLOGERIE, tagline: 'A racing machine on the wrist.', logo: '/logos/richard_mille_logo.png', icon: '/icons/richard_mille_icon.jpeg' },
 ];
 
+const BRAND_OFFICIAL_URLS = {
+  'A. Lange & Söhne': 'https://www.alange-soehne.com/',
+  'Audemars Piguet': 'https://www.audemarspiguet.com/',
+  Breitling: 'https://www.breitling.com/',
+  Bulgari: 'https://www.bulgari.com/',
+  Cartier: 'https://www.cartier.com/',
+  'Casio G-Shock': 'https://gshock.casio.com/',
+  Chopard: 'https://www.chopard.com/',
+  Citizen: 'https://www.citizenwatch.com/',
+  'Frederique Constant': 'https://frederiqueconstant.com/',
+  'Grand Seiko': 'https://www.grand-seiko.com/',
+  Hamilton: 'https://www.hamiltonwatch.com/',
+  Hublot: 'https://www.hublot.com/',
+  'IWC Schaffhausen': 'https://www.iwc.com/',
+  'Jaeger-LeCoultre': 'https://www.jaeger-lecoultre.com/',
+  Longines: 'https://www.longines.com/',
+  Omega: 'https://www.omegawatches.com/',
+  Panerai: 'https://www.panerai.com/',
+  'Patek Philippe': 'https://www.patek.com/',
+  'Richard Mille': 'https://www.richardmille.com/',
+  Rolex: 'https://www.rolex.com/',
+  Seiko: 'https://www.seikowatches.com/',
+  'TAG Heuer': 'https://www.tagheuer.com/',
+  Tudor: 'https://www.tudorwatch.com/',
+  'Vacheron Constantin': 'https://www.vacheron-constantin.com/',
+  Zenith: 'https://www.zenith-watches.com/',
+};
+
 // --- STYLES (Inline) ---
 const STYLES = {
   reset: `
@@ -501,41 +529,750 @@ const STYLES = {
       align-items: flex-start;
       will-change: transform, bottom, left;
       text-align: left;
-      width: calc(100% - 120px);
-      max-width: 900px;
+      width: min(900px, calc(100% - clamp(60px, 10vw, 120px)));
+      max-width: calc(100% - clamp(60px, 10vw, 120px));
+      box-sizing: border-box;
+      overflow: hidden;
+      transform-origin: left bottom;
     }
 
     .cover-title-reveal {
-      font-size: clamp(32px, 8vw, 80px);
+      font-size: clamp(32px, 7vw, 72px);
       color: #FFFFFF;
       margin: 0;
       font-family: 'Playfair Display', serif;
       letter-spacing: 2px;
       text-shadow: 0 4px 30px rgba(0,0,0,0.8);
       font-weight: 700;
-      line-height: 1.1;
+      line-height: 0.98;
+      max-width: 100%;
+      overflow-wrap: anywhere;
+      text-wrap: balance;
     }
 
     /* --- RESPONSIVENESS & GLOBAL REFINEMENTS --- */
-    @media (max-width: 1024px) {
-      .container { padding: 0 24px !important; }
-      .hero-title { font-size: clamp(3rem, 12vw, 5rem); }
-      .grid-2 { gap: 40px !important; grid-template-columns: 1fr !important; }
+    /* Container responsiveness */
+    .container { 
+      maxWidth: '1400px', 
+      margin: '0 auto', 
+      padding: '0 20px' 
     }
 
-    @media (max-width: 768px) {
-      .brand-card-luxury { height: 400px; }
-      .cover-content-group { left: 30px; bottom: 30px; width: calc(100% - 60px); }
-      .cover-logo-badge { top: 30px; left: 30px; }
-      .navbar .container { height: 70px; }
-      .nav-links { gap: 30px !important; font-size: 11px; }
+    @media (min-width: 768px) {
+      .container { padding: '0 40px' }
     }
 
-    @media (max-width: 480px) {
+    @media (min-width: 1200px) {
+      .container { padding: '0 60px' }
+    }
+
+    /* Navigation responsiveness */
+    .nav-links { gap: 20px; font-size: 11px; }
+
+    @media (min-width: 768px) {
+      .nav-links { gap: 40px; font-size: 12px; }
+    }
+
+    @media (min-width: 1024px) {
+      .nav-links { gap: 60px; font-size: 13px; }
+    }
+
+    /* Hero section responsiveness */
+    .hero-section {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      min-height: 500px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      background: var(--bg-primary);
+    }
+
+    @media (min-width: 768px) {
+      .hero-section { min-height: 600px; }
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 3;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    @media (min-width: 480px) {
+      .hero-content { padding: 2rem; }
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.5rem, 10vw, 5rem);
+      letter-spacing: 0.2em;
+      color: var(--accent-primary);
+      margin-bottom: 0.5rem;
+      text-shadow: 0 2px 15px var(--shadow-color);
+    }
+
+    @media (min-width: 768px) {
+      .hero-title {
+        font-size: clamp(3rem, 8vw, 6rem);
+        letter-spacing: 0.3em;
+        margin-bottom: 1rem;
+      }
+    }
+
+    .hero-subtitle {
+      font-size: 1rem;
+      color: var(--text-secondary);
+      max-width: 500px;
+      margin: 0 auto 1.5rem;
+      line-height: 1.6;
+      font-weight: 300;
+    }
+
+    @media (min-width: 480px) {
+      .hero-subtitle {
+        font-size: 1.1rem;
+        max-width: 600px;
+        margin-bottom: 2rem;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .hero-subtitle {
+        font-size: 1.2rem;
+        margin-bottom: 2.5rem;
+      }
+    }
+
+    .hero-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      justify-content: center;
+      align-items: center;
+    }
+
+    @media (min-width: 480px) {
+      .hero-buttons {
+        flex-direction: row;
+        gap: 24px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .hero-buttons { gap: 32px; }
+    }
+
+    .live-clock {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 24px;
+      letter-spacing: 8px;
+      color: var(--accent-primary);
+      margin-bottom: 1.5rem;
+      font-weight: 300;
+      opacity: 0.9;
+      text-transform: uppercase;
+    }
+
+    @media (min-width: 480px) {
+      .live-clock {
+        font-size: 28px;
+        letter-spacing: 10px;
+        margin-bottom: 2rem;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .live-clock {
+        font-size: 32px;
+        letter-spacing: 12px;
+        margin-bottom: 2.5rem;
+      }
+    }
+
+    /* Grid responsiveness */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 40px;
+    }
+
+    @media (min-width: 1024px) {
+      .grid-2 {
+        grid-template-columns: 1fr 1fr;
+        gap: 60px;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      .grid-2 { gap: 80px; }
+    }
+
+    /* Brand card responsiveness */
+    .brand-card-luxury {
+      position: relative;
+      height: 300px;
+      border-radius: 20px;
+      overflow: hidden;
+      background: #000;
+      cursor: pointer;
+      transform-style: preserve-3d;
+      perspective: 1000px;
+      transition: box-shadow 0.5s ease;
+    }
+
+    @media (min-width: 480px) {
       .brand-card-luxury { height: 350px; }
-      .card-title-reveal { font-size: 22px; }
-      .live-clock { font-size: 20px; letter-spacing: 6px; }
-      .back-btn, .luxury-toggle { padding: 8px 16px; font-size: 10px; }
+    }
+
+    @media (min-width: 768px) {
+      .brand-card-luxury { height: 400px; }
+    }
+
+    @media (min-width: 1024px) {
+      .brand-card-luxury { height: 450px; }
+    }
+
+    .card-logo-reveal {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: #FFFFFF;
+      padding: 10px;
+      object-fit: contain;
+      box-shadow: 0 8px 25px rgba(0,0,0,0.5);
+      filter: none;
+      will-change: transform;
+      z-index: 10;
+    }
+
+    @media (min-width: 480px) {
+      .card-logo-reveal {
+        top: 25px;
+        left: 25px;
+        width: 60px;
+        height: 60px;
+        padding: 12px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .card-logo-reveal {
+        top: 30px;
+        left: 30px;
+        width: 70px;
+        height: 70px;
+      }
+    }
+
+    .card-content-wrap {
+      position: absolute;
+      inset: 0;
+      padding: 20px;
+      z-index: 3;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      pointer-events: none;
+    }
+
+    @media (min-width: 480px) {
+      .card-content-wrap { padding: 25px; }
+    }
+
+    @media (min-width: 768px) {
+      .card-content-wrap { padding: 30px; }
+    }
+
+    .card-identity-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      text-align: center;
+      padding: 15px;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 15px;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    @media (min-width: 480px) {
+      .card-identity-group { padding: 18px; }
+    }
+
+    @media (min-width: 768px) {
+      .card-identity-group { padding: 20px; }
+    }
+
+    .card-title-reveal {
+      font-size: 18px;
+      color: var(--accent-primary);
+      margin: 0;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+      font-weight: 700;
+    }
+
+    @media (min-width: 480px) {
+      .card-title-reveal { font-size: 20px; }
+    }
+
+    @media (min-width: 768px) {
+      .card-title-reveal { font-size: 24px; }
+    }
+
+    @media (min-width: 1024px) {
+      .card-title-reveal { font-size: 28px; }
+    }
+
+    .card-subtitle-reveal {
+      font-size: 9px;
+      color: #FFFFFF;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      margin-top: 6px;
+      font-weight: 500;
+      opacity: 0.9;
+    }
+
+    @media (min-width: 480px) {
+      .card-subtitle-reveal {
+        font-size: 10px;
+        letter-spacing: 3.5px;
+        margin-top: 7px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .card-subtitle-reveal {
+        font-size: 11px;
+        letter-spacing: 4px;
+        margin-top: 8px;
+      }
+    }
+
+    /* Brand cover responsiveness */
+    .brand-cover-luxury {
+      width: 100%;
+      height: clamp(300px, 50vh, 500px);
+      border-radius: 20px;
+      overflow: hidden;
+      margin-bottom: clamp(40px, 6vh, 80px);
+      position: relative;
+      box-shadow: 0 20px 50px var(--shadow-color);
+      background: #000;
+      cursor: pointer;
+    }
+
+    @media (min-width: 768px) {
+      .brand-cover-luxury {
+        height: clamp(400px, 60vh, 550px);
+        border-radius: 24px;
+        margin-bottom: clamp(60px, 8vh, 100px);
+      }
+    }
+
+    .cover-logo-badge {
+      position: absolute;
+      top: clamp(20px, 3vw, 40px);
+      left: clamp(20px, 3vw, 40px);
+      width: clamp(50px, 6vw, 80px);
+      height: clamp(50px, 6vw, 80px);
+      border-radius: 50%;
+      background: #FFFFFF;
+      padding: 10px;
+      object-fit: contain;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      z-index: 10;
+      will-change: transform;
+    }
+
+    @media (min-width: 768px) {
+      .cover-logo-badge {
+        top: clamp(30px, 5vw, 60px);
+        left: clamp(30px, 5vw, 60px);
+        width: clamp(60px, 8vw, 100px);
+        height: clamp(60px, 8vw, 100px);
+        padding: 15px;
+      }
+    }
+
+    .cover-content-group {
+      position: absolute;
+      bottom: clamp(20px, 3vw, 40px);
+      left: clamp(20px, 3vw, 40px);
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      will-change: transform, bottom, left;
+      text-align: left;
+      width: min(800px, calc(100% - clamp(40px, 6vw, 80px)));
+      max-width: calc(100% - clamp(40px, 6vw, 80px));
+      box-sizing: border-box;
+      overflow: hidden;
+      transform-origin: left bottom;
+    }
+
+    @media (min-width: 480px) {
+      .cover-content-group {
+        bottom: clamp(25px, 4vw, 50px);
+        left: clamp(25px, 4vw, 50px);
+        width: min(840px, calc(100% - clamp(50px, 8vw, 100px)));
+        max-width: calc(100% - clamp(50px, 8vw, 100px));
+      }
+    }
+
+    @media (min-width: 768px) {
+      .cover-content-group {
+        bottom: clamp(30px, 5vw, 60px);
+        left: clamp(30px, 5vw, 60px);
+        width: min(900px, calc(100% - clamp(60px, 10vw, 120px)));
+        max-width: calc(100% - clamp(60px, 10vw, 120px));
+      }
+    }
+
+    .cover-title-reveal {
+      font-size: clamp(24px, 6vw, 54px);
+      color: #FFFFFF;
+      margin: 0;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: 1px;
+      text-shadow: 0 4px 30px rgba(0,0,0,0.8);
+      font-weight: 700;
+      line-height: 1;
+      max-width: 100%;
+      overflow-wrap: anywhere;
+      text-wrap: balance;
+    }
+
+    @media (min-width: 768px) {
+      .cover-title-reveal {
+        font-size: clamp(32px, 7vw, 72px);
+        letter-spacing: 2px;
+      }
+    }
+
+    .cover-meta-reveal {
+      max-width: 100%;
+      margin-top: 12px;
+      color: rgba(255,255,255,0.65);
+      font-size: clamp(10px, 2vw, 14px);
+      font-weight: 600;
+      letter-spacing: clamp(1.5px, 0.5vw, 4px);
+      line-height: 1.35;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+      text-wrap: balance;
+    }
+
+    /* Search responsiveness */
+    .search-container {
+      position: sticky;
+      top: 80px;
+      width: 100%;
+      max-width: 100%;
+      margin: 0 auto;
+      z-index: 900;
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @media (min-width: 768px) {
+      .search-container {
+        top: 100px;
+        max-width: 800px;
+      }
+    }
+
+    .search-input-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 8px 16px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+    }
+
+    @media (min-width: 480px) {
+      .search-input-wrapper { padding: 10px 20px; }
+    }
+
+    .search-input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      outline: none;
+      color: var(--text-primary);
+      font-size: 16px;
+      padding: 10px;
+      font-family: inherit;
+    }
+
+    @media (min-width: 480px) {
+      .search-input {
+        font-size: 18px;
+        padding: 12px;
+      }
+    }
+
+    /* Typography responsiveness */
+    h1 { font-size: 32px; }
+
+    @media (min-width: 480px) {
+      h1 { font-size: 36px; }
+    }
+
+    @media (min-width: 768px) {
+      h1 { font-size: 48px; }
+    }
+
+    @media (min-width: 1024px) {
+      h1 { font-size: 60px; }
+    }
+
+    @media (min-width: 1200px) {
+      h1 { font-size: 72px; }
+    }
+
+    h2 { font-size: 24px; }
+
+    @media (min-width: 480px) {
+      h2 { font-size: 28px; }
+    }
+
+    @media (min-width: 768px) {
+      h2 { font-size: 32px; }
+    }
+
+    @media (min-width: 1024px) {
+      h2 { font-size: 36px; }
+    }
+
+    @media (min-width: 1200px) {
+      h2 { font-size: 42px; }
+    }
+
+    /* Button responsiveness */
+    .back-btn, .luxury-toggle {
+      padding: 6px 14px;
+      font-size: 9px;
+    }
+
+    @media (min-width: 480px) {
+      .back-btn, .luxury-toggle {
+        padding: 8px 18px;
+        font-size: 10px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .back-btn, .luxury-toggle {
+        padding: 8px 20px;
+        font-size: 11px;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .back-btn, .luxury-toggle {
+        padding: 8px 24px;
+        font-size: 12px;
+      }
+    }
+
+    /* Grid layouts responsiveness */
+    /* Tiers grid */
+    .tiers-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    @media (min-width: 480px) {
+      .tiers-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .tiers-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 40px;
+      }
+    }
+
+    /* Brands grid */
+    .brands-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    @media (min-width: 480px) {
+      .brands-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .brands-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 30px;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .brands-grid {
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 40px;
+      }
+    }
+
+    /* Collections grid */
+    .collections-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    @media (min-width: 480px) {
+      .collections-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .collections-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 30px;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .collections-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 40px;
+      }
+    }
+
+    /* Specs grid */
+    .specs-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 15px;
+    }
+
+    @media (min-width: 480px) {
+      .specs-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .specs-grid {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 25px;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .specs-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 30px;
+      }
+    }
+
+    /* Scroll indicator */
+    .scroll-indicator {
+      position: absolute;
+      bottom: 1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 3;
+      color: var(--accent-primary);
+      animation: bounce 2s infinite;
+    }
+
+    @media (min-width: 768px) {
+      .scroll-indicator { bottom: 2rem; }
+    }
+
+    /* Theme toggle positioning */
+    .theme-toggle-fixed {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1001;
+    }
+
+    @media (min-width: 768px) {
+      .theme-toggle-fixed {
+        top: 100px;
+        right: 40px;
+      }
+    }
+
+    /* Back button and theme toggle container */
+    .nav-controls {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      align-items: flex-start;
+    }
+
+    @media (min-width: 480px) {
+      .nav-controls {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border-color);
+      padding: 30px 0;
+      margin-top: 50px;
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 10px;
+      letter-spacing: 1px;
+    }
+
+    @media (min-width: 480px) {
+      footer {
+        padding: 40px 0;
+        margin-top: 80px;
+        font-size: 11px;
+        letter-spacing: 1.5px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      footer {
+        padding: 60px 0;
+        margin-top: 100px;
+        font-size: 12px;
+        letter-spacing: 2px;
+      }
     }
 
     /* Shimmer Effect for Buttons */
@@ -677,19 +1414,57 @@ const STYLES = {
       outline-offset: 4px;
     }
 
-    /* Reduced Motion */
-    @media (prefers-reduced-motion: reduce) {
-      * { animation: none !important; transition: none !important; }
+    /* Mobile-first responsive improvements */
+    @media (max-width: 479px) {
+      body { font-size: 14px; }
+      .container { padding: '0 15px' }
+      
+      /* Hide scroll indicator on very small screens */
+      .scroll-indicator { display: none; }
+      
+      /* Stack navigation vertically on very small screens */
+      .nav-links { display: none; } /* Hide nav links on mobile for cleaner look */
+      
+      /* Make logo smaller */
+      .navbar .container { height: '60px'; }
+      .navbar .container > div:first-child { font-size: '18px'; letter-spacing: '2px'; }
+      
+      /* Adjust search */
+      .search-container { top: '60px'; }
+      .search-input { font-size: '16px'; }
+      
+      /* Make cards more touch-friendly */
+      .brand-card-luxury { min-height: '280px'; }
+      .card-identity-group { padding: '12px'; }
+      
+      /* Adjust spacing */
+      .hero-section { min-height: '400px'; }
+      .hero-content { padding: '1rem'; }
+      
+      /* Make buttons stack vertically on very small screens */
+      .hero-buttons { flex-direction: column; gap: 12px; }
+      .hero-buttons button { width: '100%'; max-width: '280px'; padding: '12px 24px'; }
+      
+      /* Adjust grid gaps */
+      .tiers-grid, .brands-grid, .collections-grid { gap: '15px'; }
+      
+      /* Make text more readable */
+      .cover-title-reveal { font-size: '28px'; }
+      .card-title-reveal { font-size: '16px'; }
     }
 
-    @media (max-width: 480px) {
-      h1 { font-size: 40px !important; }
-      .hero-buttons { flex-direction: column; width: 100%; align-items: center; }
-      .hero-buttons button { width: 100%; max-width: 300px; }
+    /* Touch device improvements */
+    @media (hover: none) and (pointer: coarse) {
+      .brand-card-luxury:hover { transform: none; }
+      .luxury-toggle:hover { opacity: 1; }
+      .back-btn:hover { transform: none; }
+      button { opacity: 1; }
     }
-    
-    @media (prefers-reduced-motion: reduce) {
-      * { transition: none !important; }
+
+    /* High DPI screen adjustments */
+    @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+      .hero-title { text-shadow: 0 2px 20px var(--shadow-color); }
+      .card-title-reveal { text-shadow: 0 2px 15px rgba(0,0,0,0.6); }
     }
 
     ::-webkit-scrollbar { width: 6px; }
@@ -1235,14 +2010,14 @@ const TiltCard = ({ children, style = {}, onClick }) => {
 
 const Navbar = ({ onViewChange, currentView }) => (
   <nav style={{ ...STYLES.glass, position: 'sticky', top: 0, zIndex: 1000 }}>
-    <div className="container" style={{ ...STYLES.container, display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '80px' }}>
+    <div className="container" style={{ ...STYLES.container, display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '70px' }}>
       <div 
         onClick={() => onViewChange('home')}
-        style={{ fontSize: '24px', fontWeight: 'bold', letterSpacing: '4px', cursor: 'pointer', color: 'var(--accent-primary)', fontFamily: 'Cormorant Garamond' }}
+        style={{ fontSize: '20px', fontWeight: 'bold', letterSpacing: '3px', cursor: 'pointer', color: 'var(--accent-primary)', fontFamily: 'Cormorant Garamond' }}
       >
         HOROLOGIUM
       </div>
-      <div className="nav-links" style={{ display: 'flex', gap: '60px', fontSize: '13px', textTransform: 'uppercase', letterSpacing: '1px' }}>
+      <div className="nav-links" style={{ display: 'flex', gap: '20px', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '1px' }}>
         {['brands', 'guide'].map((view) => (
           <button 
             key={view}
@@ -1356,7 +2131,7 @@ const HomeView = ({ onNavigate }) => {
             Welcome to the ultimate digital sanctuary for horological enthusiasts. 
             Explore the mechanics, history, and investment value of the world's most prestigious timepieces.
           </p>
-          <div className="hero-buttons" style={{ display: 'flex', gap: '32px', justifyContent: 'center' }}>
+          <div className="hero-buttons">
             <button 
               onClick={() => onNavigate('brands')}
               style={{ padding: '15px 40px', background: 'var(--accent-primary)', color: '#FFFFFF', fontWeight: 600, borderRadius: '4px', transition: 'transform 0.3s' }}
@@ -1380,12 +2155,12 @@ const HomeView = ({ onNavigate }) => {
       </section>
 
       <section className="container" style={{ ...STYLES.container, padding: '100px 40px' }}>
-        <h2 style={{ fontSize: '48px', marginBottom: '60px', textAlign: 'center' }}>THE TIERS OF EXCELLENCE</h2>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '40px' }}>
+        <h2 style={{ fontSize: 'clamp(32px, 8vw, 48px)', marginBottom: 'clamp(40px, 8vh, 60px)', textAlign: 'center' }}>THE TIERS OF EXCELLENCE</h2>
+        <div className="tiers-grid">
           {Object.values(TIERS).map((tier) => (
             <TiltCard key={tier}>
-              <h3 style={{ fontSize: '24px', marginBottom: '16px' }}>{tier}</h3>
-              <p style={{ fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
+              <h3 style={{ fontSize: 'clamp(20px, 5vw, 24px)', marginBottom: '16px' }}>{tier}</h3>
+              <p style={{ fontSize: 'clamp(13px, 3vw, 14px)', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
                 The highest standards of craftsmanship and history in the world of watchmaking.
               </p>
             </TiltCard>
@@ -1491,7 +2266,7 @@ const BrandsView = ({ onSelectBrand, onSelectWatch }) => {
   return (
     <div className="container" style={{ ...STYLES.container, padding: '40px 40px 120px' }}>
       <div style={{ marginBottom: '120px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        <h1 style={{ fontSize: '100px', marginBottom: '60px', textAlign: 'center', letterSpacing: '-2px' }}>THE MAISONS</h1>
+        <h1 style={{ fontSize: 'clamp(48px, 20vw, 100px)', marginBottom: 'clamp(30px, 6vh, 60px)', textAlign: 'center', letterSpacing: '-2px' }}>THE MAISONS</h1>
         <div style={{ width: '100%', maxWidth: '850px', display: 'flex', flexDirection: 'column', gap: '32px' }}>
           <AdvancedSearch 
             data={BRANDS_DATA} 
@@ -1513,7 +2288,7 @@ const BrandsView = ({ onSelectBrand, onSelectWatch }) => {
         </div>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(350px, 1fr))', gap: '40px' }}>
+      <div className="brands-grid">
         {filteredBrands.map((brand) => (
           <LuxuryBrandCard 
             key={brand.name} 
@@ -1549,6 +2324,13 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
   const handleMouseEnter = () => {
     if (!logoRef.current || !groupRef.current || !coverRef.current) return;
 
+    gsap.killTweensOf([logoRef.current, groupRef.current]);
+
+    const coverRect = coverRef.current.getBoundingClientRect();
+    const groupRect = groupRef.current.getBoundingClientRect();
+    const targetX = coverRect.left + coverRect.width / 2 - (groupRect.left + groupRect.width / 2);
+    const targetY = coverRect.top + coverRect.height * 0.62 - (groupRect.top + groupRect.height / 2);
+
     // Use absolute centering for rock-solid stability
     gsap.to(logoRef.current, {
       top: "50%",
@@ -1562,12 +2344,9 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
     });
 
     gsap.to(groupRef.current, {
-      top: "50%",
-      bottom: "auto",
-      left: "50%",
-      xPercent: -50,
-      yPercent: 40,
-      scale: 1.05,
+      x: targetX,
+      y: targetY,
+      scale: 1,
       alignItems: "center",
       textAlign: "center",
       duration: 1.2,
@@ -1581,6 +2360,7 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
 
     const isMobile = window.innerWidth <= 768;
     const offset = isMobile ? "30px" : "60px";
+    gsap.killTweensOf([logoRef.current, groupRef.current]);
 
     gsap.to(logoRef.current, {
       top: offset,
@@ -1593,11 +2373,8 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
     });
 
     gsap.to(groupRef.current, {
-      top: "auto",
-      bottom: offset,
-      left: offset,
-      xPercent: 0,
-      yPercent: 0,
+      x: 0,
+      y: 0,
       scale: 1,
       alignItems: "flex-start",
       textAlign: "left",
@@ -1625,7 +2402,7 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
         
         <div className="cover-content-group" ref={groupRef}>
           <h1 className="cover-title-reveal">{brand.name}</h1>
-          <div style={{ color: 'rgba(255,255,255,0.6)', letterSpacing: '4px', textTransform: 'uppercase', fontSize: '14px', marginTop: '12px' }}>
+          <div className="cover-meta-reveal">
             {brand.country} • SINCE {brand.founded}
           </div>
         </div>
@@ -1650,7 +2427,7 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
         <h2 style={{ fontSize: '48px' }}>COLLECTIONS</h2>
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '40px' }}>
+      <div className="collections-grid">
         {data.watches.map((watch, idx) => (
           <div key={idx} onClick={() => onSelectWatch(watch)} style={{ cursor: 'pointer' }}>
             <TiltCard>
@@ -1673,9 +2450,12 @@ const BrandDetailView = ({ brand, onSelectWatch, onBack }) => {
 
 
 const WatchDetailView = ({ watch, brand, onBack }) => {
+  const officialBrandUrl = BRAND_OFFICIAL_URLS[brand.name] || 'https://www.google.com/search?q=' + encodeURIComponent(brand.name);
+  const officialTargetUrl = watch.officialUrl || officialBrandUrl;
+  const hasOfficialModelUrl = Boolean(watch.officialUrl);
+
   const handleEnquiry = () => {
-    const domain = brand.logo.split('/').pop().replace('logo.clearbit.com/', '');
-    window.open(`https://www.${domain}`, '_blank', 'noopener,noreferrer');
+    window.open(officialTargetUrl, '_blank', 'noopener,noreferrer');
   };
 
   return (
@@ -1698,7 +2478,7 @@ const WatchDetailView = ({ watch, brand, onBack }) => {
 
           <section style={{ marginBottom: '80px' }}>
             <h2 style={{ fontSize: '32px', marginBottom: '24px' }}>TECHNICAL SPECS</h2>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '30px' }}>
+            <div className="specs-grid">
               {[
                 { label: 'Collection', value: watch.collection },
                 { label: 'Category', value: watch.class },
@@ -1732,8 +2512,10 @@ const WatchDetailView = ({ watch, brand, onBack }) => {
              >
                ENQUIRE ON OFFICIAL SITE
              </button>
-             <div style={{ textAlign: 'center', marginTop: '16px', color: 'var(--text-secondary)', fontSize: '12px' }}>
-               Redirecting to {brand.logo.split('/').pop()}
+             <div style={{ textAlign: 'center', marginTop: '16px', color: hasOfficialModelUrl ? 'var(--text-secondary)' : 'var(--accent-primary)', fontSize: '12px', lineHeight: 1.6 }}>
+               {hasOfficialModelUrl
+                 ? `Opening official model page for ${watch.reference}`
+                 : `Warning: ${watch.name} (${watch.reference}) was not found on the official ${brand.name} site. Opening the brand's official site instead.`}
              </div>
           </div>
         </div>
@@ -1743,16 +2525,16 @@ const WatchDetailView = ({ watch, brand, onBack }) => {
 };
 
 const GuideView = () => (
-  <div className="container" style={{ ...STYLES.container, padding: '40px 40px 100px', maxWidth: '800px' }}>
-    <h1 style={{ fontSize: '72px', marginBottom: '60px', textAlign: 'center' }}>THE GENTLEMAN'S GUIDE</h1>
-    <div style={{ lineHeight: 1.8, fontSize: '18px', color: 'var(--text-secondary)' }}>
-      <h2 style={{ fontSize: '36px', color: 'var(--accent-primary)', marginTop: '40px', marginBottom: '20px' }}>1. The Movement</h2>
+  <div className="container" style={{ ...STYLES.container, padding: '20px 20px 60px', maxWidth: '800px' }}>
+    <h1 style={{ fontSize: 'clamp(32px, 12vw, 72px)', marginBottom: '30px', textAlign: 'center', letterSpacing: '-1px' }}>THE GENTLEMAN'S GUIDE</h1>
+    <div style={{ lineHeight: 1.7, fontSize: 'clamp(16px, 4vw, 18px)', color: 'var(--text-secondary)' }}>
+      <h2 style={{ fontSize: 'clamp(24px, 6vw, 36px)', color: 'var(--accent-primary)', marginTop: 'clamp(20px, 5vh, 40px)', marginBottom: '15px' }}>1. The Movement</h2>
       <p>Mechanical watches are powered by a mainspring, not a battery. Automatic watches wind themselves via the motion of your wrist, while manual-wind watches require a daily ritual of turning the crown.</p>
       
-      <h2 style={{ fontSize: '36px', color: 'var(--accent-primary)', marginTop: '40px', marginBottom: '20px' }}>2. Complications</h2>
+      <h2 style={{ fontSize: 'clamp(24px, 6vw, 36px)', color: 'var(--accent-primary)', marginTop: 'clamp(20px, 5vh, 40px)', marginBottom: '15px' }}>2. Complications</h2>
       <p>A "complication" is any function beyond simple timekeeping. Examples include chronographs (stopwatch), perpetual calendars (date adjustment for leap years), and the prestigious tourbillon (gravity compensation).</p>
 
-      <h2 style={{ fontSize: '36px', color: 'var(--accent-primary)', marginTop: '40px', marginBottom: '20px' }}>3. Choosing Your First</h2>
+      <h2 style={{ fontSize: 'clamp(24px, 6vw, 36px)', color: 'var(--accent-primary)', marginTop: 'clamp(20px, 5vh, 40px)', marginBottom: '15px' }}>3. Choosing Your First</h2>
       <p>Look for versatility. A "one-watch collection" usually consists of a steel sports watch that can transition from the boardroom to the beach. Think Omega Seamaster, Tudor Black Bay, or the IWC Pilot.</p>
     </div>
   </div>
@@ -1834,7 +2616,7 @@ const App = () => {
         )}
 
         {view === 'home' && (
-          <div style={{ position: 'fixed', top: '100px', right: '40px', zIndex: 1001 }}>
+          <div className="theme-toggle-fixed">
             <button 
               className="luxury-toggle" 
               onClick={toggleTheme}

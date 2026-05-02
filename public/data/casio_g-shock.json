@@ -14,7 +14,8 @@
     "priceUSD": 50,
     "priceRange": "$45 - $60",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-5600E-1V/DW-5600E-1V_Standard.png",
-    "description": "The quintessential G-Shock square, direct descendant of the 1983 original."
+    "description": "The quintessential G-Shock square, direct descendant of the 1983 original.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -31,7 +32,8 @@
     "priceUSD": 550,
     "priceRange": "$450 - $550",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GMW-B5000D-1/GMW-B5000D-1_Standard.png",
-    "description": "The iconic square reborn in full stainless steel with Bluetooth and Solar."
+    "description": "The iconic square reborn in full stainless steel with Bluetooth and Solar.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -48,7 +50,8 @@
     "priceUSD": 99,
     "priceRange": "$90 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-2100-1A1/GA-2100-1A1_Standard.png",
-    "description": "The modern viral sensation known for its slim octagonal bezel."
+    "description": "The modern viral sensation known for its slim octagonal bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -65,7 +68,8 @@
     "priceUSD": 330,
     "priceRange": "$250 - $330",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GW-9400-1/GW-9400-1_Standard.png",
-    "description": "Triple Sensor tool watch designed for the most grueling environments."
+    "description": "Triple Sensor tool watch designed for the most grueling environments.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -82,7 +86,8 @@
     "priceUSD": 800,
     "priceRange": "$700 - $850",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GWG-B1000-1A/GWG-B1000-1A_Standard.png",
-    "description": "Ultra-rugged flagship Mudmaster with mud-resist construction and Bluetooth."
+    "description": "Ultra-rugged flagship Mudmaster with mud-resist construction and Bluetooth.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -99,7 +104,8 @@
     "priceUSD": 800,
     "priceRange": "$650 - $800",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GWF-A1000-1A/GWF-A1000-1A_Standard.png",
-    "description": "The first analog Frogman with ISO 6425 diver certification."
+    "description": "The first analog Frogman with ISO 6425 diver certification.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -116,7 +122,8 @@
     "priceUSD": 3000,
     "priceRange": "$2,800 - $3,200",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/MRG-B2000B-1A/MRG-B2000B-1A_Standard.png",
-    "description": "High-end MR-G featuring a Japanese samurai 'Kachi-Iro' victory color scheme."
+    "description": "High-end MR-G featuring a Japanese samurai 'Kachi-Iro' victory color scheme.",
+    "officialUrl": "https://gshock.casio.com/jp/products/mr-g/mrg-b2000b-1a/"
   },
   {
     "brand": "Casio G-Shock",
@@ -133,7 +140,8 @@
     "priceUSD": 1050,
     "priceRange": "$850 - $1,100",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/MTG-B3000BD-1A/MTG-B3000BD-1A_Standard.png",
-    "description": "Sophisticated MT-G with a slim profile and one-push band exchange."
+    "description": "Sophisticated MT-G with a slim profile and one-push band exchange.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -150,7 +158,8 @@
     "priceUSD": 140,
     "priceRange": "$110 - $150",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GW-M5610U-1/GW-M5610U-1_Standard.png",
-    "description": "The enthusiast's favorite square with Tough Solar and Atomic Multi-Band 6."
+    "description": "The enthusiast's favorite square with Tough Solar and Atomic Multi-Band 6.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -167,7 +176,8 @@
     "priceUSD": 160,
     "priceRange": "$140 - $180",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GBX-100-1/GBX-100-1_Standard.png",
-    "description": "Surfer's watch with MIP LCD display and high-definition tide graphs."
+    "description": "Surfer's watch with MIP LCD display and high-definition tide graphs.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -184,7 +194,8 @@
     "priceUSD": 399,
     "priceRange": "$350 - $450",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GBD-H2000-1A/GBD-H2000-1A_Standard.png",
-    "description": "Multi-sport fitness watch with heart rate monitor, GPS, and solar charging."
+    "description": "Multi-sport fitness watch with heart rate monitor, GPS, and solar charging.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -201,7 +212,8 @@
     "priceUSD": 150,
     "priceRange": "$120 - $160",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GX-56BB-1/GX-56BB-1_Standard.png",
-    "description": "Massive 'King of G' square with extreme shock and mud resistance."
+    "description": "Massive 'King of G' square with extreme shock and mud resistance.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -218,7 +230,8 @@
     "priceUSD": 400,
     "priceRange": "$350 - $420",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GST-B400D-1A/GST-B400D-1A_Standard.png",
-    "description": "Slimmer G-Steel model with a carbon core guard and metal bracelet."
+    "description": "Slimmer G-Steel model with a carbon core guard and metal bracelet.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -235,7 +248,8 @@
     "priceUSD": 800,
     "priceRange": "$650 - $850",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GWR-B1000-1A1/GWR-B1000-1A1_Standard.png",
-    "description": "Ultra-lightweight pilot's watch made from a single carbon monocoque case."
+    "description": "Ultra-lightweight pilot's watch made from a single carbon monocoque case.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -252,7 +266,8 @@
     "priceUSD": 380,
     "priceRange": "$330 - $400",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GW-9500-1/GW-9500-1_Standard.png",
-    "description": "Modern Mudman with a duplex LCD and triple sensor technology."
+    "description": "Modern Mudman with a duplex LCD and triple sensor technology.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -269,7 +284,8 @@
     "priceUSD": 80,
     "priceRange": "$60 - $85",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-6900-1V/DW-6900-1V_Standard.png",
-    "description": "The legendary 'Three-Eye' model, a favorite for collaborations and military use."
+    "description": "The legendary 'Three-Eye' model, a favorite for collaborations and military use.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -286,7 +302,8 @@
     "priceUSD": 600,
     "priceRange": "$500 - $650",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GMW-B5000GD-9/GMW-B5000GD-9_Standard.png",
-    "description": "The full metal square with a striking gold ion-plated finish."
+    "description": "The full metal square with a striking gold ion-plated finish.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -303,7 +320,8 @@
     "priceUSD": 150,
     "priceRange": "$130 - $160",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GBD-200-1/GBD-200-1_Standard.png",
-    "description": "Slim fitness-oriented G-Shock with a high-contrast MIP LCD."
+    "description": "Slim fitness-oriented G-Shock with a high-contrast MIP LCD.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -320,7 +338,8 @@
     "priceUSD": 550,
     "priceRange": "$450 - $550",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GM-B2100D-1A/GM-B2100D-1A_Standard.png",
-    "description": "The evolution of the CasiOak into a full stainless steel construction."
+    "description": "The evolution of the CasiOak into a full stainless steel construction.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -337,7 +356,8 @@
     "priceUSD": 130,
     "priceRange": "$100 - $140",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-110-1A/GA-110-1A_Standard.png",
-    "description": "Large-case analog-digital with a layered dial and industrial look."
+    "description": "Large-case analog-digital with a layered dial and industrial look.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -354,7 +374,8 @@
     "priceUSD": 700,
     "priceRange": "$500 - $750",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GWF-1000-1/GWF-1000-1_Standard.png",
-    "description": "The definitive digital Frogman with ISO-certified diver's specs."
+    "description": "The definitive digital Frogman with ISO-certified diver's specs.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -371,7 +392,8 @@
     "priceUSD": 3500,
     "priceRange": "$3,200 - $3,800",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/MRG-B5000D-1/MRG-B5000D-1_Standard.png",
-    "description": "The ultimate square, hand-polished and crafted from high-end alloys."
+    "description": "The ultimate square, hand-polished and crafted from high-end alloys.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -388,7 +410,8 @@
     "priceUSD": 500,
     "priceRange": "$450 - $550",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GPR-H1000-1/GPR-H1000-1_Standard.png",
-    "description": "The next-gen Rangeman with heart rate monitor and GPS functionality."
+    "description": "The next-gen Rangeman with heart rate monitor and GPS functionality.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -405,7 +428,8 @@
     "priceUSD": 110,
     "priceRange": "$90 - $120",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/G-9000-1/G-9000-1_Standard.png",
-    "description": "Compact and rugged Mudman with dust and mud-resistant buttons."
+    "description": "Compact and rugged Mudman with dust and mud-resistant buttons.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -422,7 +446,8 @@
     "priceUSD": 800,
     "priceRange": "$600 - $900",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GPW-2000-1A/GPW-2000-1A_Standard.png",
-    "description": "High-spec pilot watch with GPS Hybrid Wave Ceptor timekeeping."
+    "description": "High-spec pilot watch with GPS Hybrid Wave Ceptor timekeeping.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -439,7 +464,8 @@
     "priceUSD": 150,
     "priceRange": "$130 - $160",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-B2100-1A/GA-B2100-1A_Standard.png",
-    "description": "The popular CasiOak updated with Tough Solar and Bluetooth connectivity."
+    "description": "The popular CasiOak updated with Tough Solar and Bluetooth connectivity.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -456,7 +482,8 @@
     "priceUSD": 350,
     "priceRange": "$300 - $380",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GST-B100-1A/GST-B100-1A_Standard.png",
-    "description": "Full analog G-Steel featuring a turbine-inspired sub-dial."
+    "description": "Full analog G-Steel featuring a turbine-inspired sub-dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -473,7 +500,8 @@
     "priceUSD": 100,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GD-350-1/GD-350-1_Standard.png",
-    "description": "Tactical-style G-Shock with a dedicated vibration alert feature."
+    "description": "Tactical-style G-Shock with a dedicated vibration alert feature.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -490,7 +518,8 @@
     "priceUSD": 300,
     "priceRange": "$280 - $350",
     "image": "https://m.media-amazon.com/images/I/61KxT3k9u3L._AC_UY1000_.jpg",
-    "description": "The premium 'made in Japan' square with a screw-back steel case."
+    "description": "The premium 'made in Japan' square with a screw-back steel case.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -507,7 +536,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-700-1B/GA-700-1B_Standard.png",
-    "description": "Bold analog-digital with a large front button for the LED light."
+    "description": "Bold analog-digital with a large front button for the LED light.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -524,7 +554,8 @@
     "priceUSD": 220,
     "priceRange": "$180 - $230",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GM-2100-1A/GM-2100-1A_Standard.png",
-    "description": "The octagonal CasiOak featuring a forged stainless steel bezel."
+    "description": "The octagonal CasiOak featuring a forged stainless steel bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -541,7 +572,8 @@
     "priceUSD": 850,
     "priceRange": "$600 - $900",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GWN-Q1000-1A/GWN-Q1000-1A_Standard.png",
-    "description": "Quad Sensor marine watch with depth meter and barometric pressure alerts."
+    "description": "Quad Sensor marine watch with depth meter and barometric pressure alerts.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -558,7 +590,8 @@
     "priceUSD": 200,
     "priceRange": "$160 - $220",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/G-9300-1/G-9300-1_Standard.png",
-    "description": "Tough Solar Mudman with a digital compass and moon data."
+    "description": "Tough Solar Mudman with a digital compass and moon data.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -575,7 +608,8 @@
     "priceUSD": 250,
     "priceRange": "$200 - $270",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GR-B200-1A/GR-B200-1A_Standard.png",
-    "description": "Carbon Core Guard Gravitymaster with Quad Sensor and flight log."
+    "description": "Carbon Core Guard Gravitymaster with Quad Sensor and flight log.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -592,7 +626,8 @@
     "priceUSD": 299,
     "priceRange": "$270 - $320",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-H5600-1/DW-H5600-1_Standard.png",
-    "description": "Hybrid fitness watch in the classic square shape with optical heart rate."
+    "description": "Hybrid fitness watch in the classic square shape with optical heart rate.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -609,7 +644,8 @@
     "priceUSD": 180,
     "priceRange": "$150 - $190",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GM-5600-1/GM-5600-1_Standard.png",
-    "description": "Classic square style with a stainless steel bezel and resin strap."
+    "description": "Classic square style with a stainless steel bezel and resin strap.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -626,7 +662,8 @@
     "priceUSD": 150,
     "priceRange": "$120 - $160",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/AWG-M100B-1A/AWG-M100B-1A_Standard.png",
-    "description": "Smaller profile analog-digital with solar power and radio timekeeping."
+    "description": "Smaller profile analog-digital with solar power and radio timekeeping.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -643,7 +680,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-100-1A1/GA-100-1A1_Standard.png",
-    "description": "The quintessential 'Big Case' blacked-out analog-digital G-Shock."
+    "description": "The quintessential 'Big Case' blacked-out analog-digital G-Shock.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -660,7 +698,8 @@
     "priceUSD": 100,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GLX-5600-1/GLX-5600-1_Standard.png",
-    "description": "Surf-spec square with tide graph and moon age data."
+    "description": "Surf-spec square with tide graph and moon age data.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -677,7 +716,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GA-140-1A/GA-140-1A_Standard.png",
-    "description": "Analog-digital inspired by 90s boomboxes and personal stereo equipment."
+    "description": "Analog-digital inspired by 90s boomboxes and personal stereo equipment.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -694,7 +734,8 @@
     "priceUSD": 150,
     "priceRange": "$120 - $160",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GW-7900B-1/GW-7900B-1_Standard.png",
-    "description": "Rugged rescue-style watch with tide/moon data and solar atomic tech."
+    "description": "Rugged rescue-style watch with tide/moon data and solar atomic tech.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -711,7 +752,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-5900-1/DW-5900-1_Standard.png",
-    "description": "Re-issue of the classic 1992 model featured in 'The Big Lebowski'."
+    "description": "Re-issue of the classic 1992 model featured in 'The Big Lebowski'.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -728,7 +770,8 @@
     "priceUSD": 240,
     "priceRange": "$200 - $250",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GM-2100BB-1A/GM-2100BB-1A_Standard.png",
-    "description": "Blacked-out metal CasiOak with a sleek and stealthy appearance."
+    "description": "Blacked-out metal CasiOak with a sleek and stealthy appearance.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -745,7 +788,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GBD-800-1/GBD-800-1_Standard.png",
-    "description": "Digital runner's watch with a step counter and Bluetooth link."
+    "description": "Digital runner's watch with a step counter and Bluetooth link.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -762,7 +806,8 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-5600BB-1/DW-5600BB-1_Standard.png",
-    "description": "Simplistic all-black square with a negative display for a stealth look."
+    "description": "Simplistic all-black square with a negative display for a stealth look.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -779,7 +824,8 @@
     "priceUSD": 300,
     "priceRange": "$220 - $320",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GN-1000-1A/GN-1000-1A_Standard.png",
-    "description": "Maritime watch with twin sensor digital compass and thermometer."
+    "description": "Maritime watch with twin sensor digital compass and thermometer.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -796,7 +842,8 @@
     "priceUSD": 130,
     "priceRange": "$100 - $140",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/AW-500E-1E/AW-500E-1E_Standard.png",
-    "description": "Modern revival of the first-ever analog-digital G-Shock from 1989."
+    "description": "Modern revival of the first-ever analog-digital G-Shock from 1989.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -813,7 +860,8 @@
     "priceUSD": 130,
     "priceRange": "$100 - $140",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/GW-6900-1/GW-6900-1_Standard.png",
-    "description": "The classic 6900 shape updated with Tough Solar and Multiband 6."
+    "description": "The classic 6900 shape updated with Tough Solar and Multiband 6.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Casio G-Shock",
@@ -830,7 +878,8 @@
     "priceUSD": 140,
     "priceRange": "$130 - $180",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/DW-5600GU-7/DW-5600GU-7_Standard.png",
-    "description": "Special edition square featuring a camouflage of past Master of G characters."
+    "description": "Special edition square featuring a camouflage of past Master of G characters.",
+    "officialUrl": "https://gshock.casio.com/my/g-news/editorials/2022/hypebeast-DW-5600GU-7/"
   },
   {
     "brand": "Casio G-Shock",
@@ -847,6 +896,7 @@
     "priceUSD": 99,
     "priceRange": "$80 - $110",
     "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/canvas/img/G-7900-1/G-7900-1_Standard.png",
-    "description": "Low-temperature resistant digital watch with large, easy-to-use buttons."
+    "description": "Low-temperature resistant digital watch with large, easy-to-use buttons.",
+    "officialUrlStatus": "not_found"
   }
 ]

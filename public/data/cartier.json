@@ -14,7 +14,8 @@
     "priceUSD": 12800,
     "priceRange": "$11,000 - $13,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/844078_0.png",
-    "description": "The quintessential dress watch, inspired by the tanks of WWI."
+    "description": "The quintessential dress watch, inspired by the tanks of WWI.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/tank/tank-louis-cartier-CRWGTA0011"
   },
   {
     "brand": "Cartier",
@@ -31,7 +32,8 @@
     "priceUSD": 7750,
     "priceRange": "$6,500 - $7,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSSA0018_0.png",
-    "description": "The world's first pilot's watch, updated with a modern QuickSwitch system."
+    "description": "The world's first pilot's watch, updated with a modern QuickSwitch system.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/santos-de-cartier/santos-de-cartier-CRWSSA0018"
   },
   {
     "brand": "Cartier",
@@ -48,7 +50,8 @@
     "priceUSD": 10100,
     "priceRange": "$8,500 - $10,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/WSPA0018_0.png",
-    "description": "A bold, round watch with distinctive Vendome lugs and a chained crown cap."
+    "description": "A bold, round watch with distinctive Vendome lugs and a chained crown cap.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -65,7 +68,8 @@
     "priceUSD": 4450,
     "priceRange": "$3,800 - $4,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83226a45/images/images-bin/WSTA0040_0.png",
-    "description": "The modern accessibility of the Tank icon with a central seconds hand."
+    "description": "The modern accessibility of the Tank icon with a central seconds hand.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/tank/tank-must-de-cartier-watch-CRWSTA0040"
   },
   {
     "brand": "Cartier",
@@ -82,7 +86,8 @@
     "priceUSD": 7050,
     "priceRange": "$5,500 - $6,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83226a45/images/images-bin/WSBB0049_0.png",
-    "description": "Floating like a balloon, this watch features an integrated blue sapphire crown."
+    "description": "Floating like a balloon, this watch features an integrated blue sapphire crown.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-CRWSBB0049"
   },
   {
     "brand": "Cartier",
@@ -99,7 +104,8 @@
     "priceUSD": 8850,
     "priceRange": "$7,500 - $9,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32561b34/images/images-bin/W2SA0017_0.png",
-    "description": "The elegant, slim evolution of the original Santos flight watch."
+    "description": "The elegant, slim evolution of the original Santos flight watch.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -116,7 +122,8 @@
     "priceUSD": 35000,
     "priceRange": "$45,000 - $65,000",
     "image": "https://static.chrono24.com/images/uhren/28225672-9p5g1w8j3f5l4n2m8q9r.jpg",
-    "description": "A curved, elongated masterpiece of elegance from the Cartier Privé collection."
+    "description": "A curved, elongated masterpiece of elegance from the Cartier Privé collection.",
+    "officialUrl": "https://www.cartier.com/en-sg/watches/collections/tank/tank-cintree-skeleton-watch-CRWHTA0009"
   },
   {
     "brand": "Cartier",
@@ -133,7 +140,8 @@
     "priceUSD": 5100,
     "priceRange": "$4,000 - $5,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSPN0007_0.png",
-    "description": "A jewelry watch that doubles as a statement piece, defining 80s glamour."
+    "description": "A jewelry watch that doubles as a statement piece, defining 80s glamour.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -150,7 +158,8 @@
     "priceUSD": 6750,
     "priceRange": "$4,500 - $5,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/WSNM0004_0.png",
-    "description": "A cushion-shaped watch with automotive inspiration and a guilloché dial."
+    "description": "A cushion-shaped watch with automotive inspiration and a guilloché dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -167,7 +176,8 @@
     "priceUSD": 8350,
     "priceRange": "$7,500 - $8,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83226a45/images/images-bin/WSSA0039_0.png",
-    "description": " Stealthy black ADLC coating on the iconic Santos case."
+    "description": " Stealthy black ADLC coating on the iconic Santos case.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/santos-de-cartier/santos-de-cartier-CRWSSA0039"
   },
   {
     "brand": "Cartier",
@@ -184,7 +194,8 @@
     "priceUSD": 65000,
     "priceRange": "$40,000 - $55,000",
     "image": "https://static.chrono24.com/images/uhren/12345678-abcd.jpg",
-    "description": "Features hands that seem to float in a transparent void, a Cartier signature."
+    "description": "Features hands that seem to float in a transparent void, a Cartier signature.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -201,7 +212,8 @@
     "priceUSD": 6200,
     "priceRange": "$4,500 - $5,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSTA0044_0.png",
-    "description": "Features a more pronounced curve and elongated case for the wrist."
+    "description": "Features a more pronounced curve and elongated case for the wrist.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -218,7 +230,8 @@
     "priceUSD": 11500,
     "priceRange": "$9,000 - $12,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/W6700155_0.png",
-    "description": "An oval-shaped 'bath-tub' design that is the height of Parisian elegance."
+    "description": "An oval-shaped 'bath-tub' design that is the height of Parisian elegance.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -235,7 +248,8 @@
     "priceUSD": 3950,
     "priceRange": "$3,200 - $3,800",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSRN0035_0.png",
-    "description": "A classic round watch with Roman numerals and a rail-track minute circle."
+    "description": "A classic round watch with Roman numerals and a rail-track minute circle.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -252,7 +266,8 @@
     "priceUSD": 59000,
     "priceRange": "$70,000 - $100,000",
     "image": "https://static.chrono24.com/images/uhren/33445566-abc.jpg",
-    "description": "A rare turtle-shaped single-button chronograph for serious collectors."
+    "description": "A rare turtle-shaped single-button chronograph for serious collectors.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/tank/tank-asymetrique-skeleton-watch-CRWHTA0011"
   },
   {
     "brand": "Cartier",
@@ -269,7 +284,8 @@
     "priceUSD": 3800,
     "priceRange": "$3,000 - $4,000",
     "image": "https://static.chrono24.com/images/uhren/44556677-abc.jpg",
-    "description": "A more modern, flat-bezeled version of the iconic Tank."
+    "description": "A more modern, flat-bezeled version of the iconic Tank.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -286,7 +302,8 @@
     "priceUSD": 8500,
     "priceRange": "$5,500 - $7,000",
     "image": "https://static.chrono24.com/images/uhren/66778899-abc.jpg",
-    "description": "Cartier's high-horology take on the professional divers' watch."
+    "description": "Cartier's high-horology take on the professional divers' watch.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -303,7 +320,8 @@
     "priceUSD": 4450,
     "priceRange": "$3,800 - $4,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSTA0066_0.png",
-    "description": "Features a more integrated bracelet for a sporty yet elegant look."
+    "description": "Features a more integrated bracelet for a sporty yet elegant look.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -320,7 +338,8 @@
     "priceUSD": 30000,
     "priceRange": "$22,000 - $28,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32561b34/images/images-bin/WHSA0015_0.png",
-    "description": "The movement bridges form the Roman numerals in this stunning skeleton watch."
+    "description": "The movement bridges form the Roman numerals in this stunning skeleton watch.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/santos-de-cartier/santos-de-cartier-skelettiert-CRWHSA0015"
   },
   {
     "brand": "Cartier",
@@ -337,7 +356,8 @@
     "priceUSD": 14500,
     "priceRange": "$11,000 - $14,000",
     "image": "https://static.chrono24.com/images/uhren/77881122-abc.jpg",
-    "description": "The peak of round Cartier elegance, with manual-wind thin movement."
+    "description": "The peak of round Cartier elegance, with manual-wind thin movement.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -354,7 +374,8 @@
     "priceUSD": 5500,
     "priceRange": "$3,500 - $4,500",
     "image": "https://static.chrono24.com/images/uhren/99001122-abc.jpg",
-    "description": "Named for its unique key-like crown mechanism."
+    "description": "Named for its unique key-like crown mechanism.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -371,7 +392,8 @@
     "priceUSD": 200000,
     "priceRange": "$150,000 - $350,000",
     "image": "https://hodinkee.imgix.net/cartier-crash-history.jpg",
-    "description": "Surrealist icon rumored to be inspired by a watch melted in a car crash."
+    "description": "Surrealist icon rumored to be inspired by a watch melted in a car crash.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -388,7 +410,8 @@
     "priceUSD": 7750,
     "priceRange": "$6,500 - $8,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSSA0030_0.png",
-    "description": "Modern Santos featuring a deep blue sunray dial."
+    "description": "Modern Santos featuring a deep blue sunray dial.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/santos-de-cartier/santos-de-cartier-watch-CRWSSA0030"
   },
   {
     "brand": "Cartier",
@@ -405,7 +428,8 @@
     "priceUSD": 1000,
     "priceRange": "$8,000 - $15,000",
     "image": "https://static.chrono24.com/images/uhren/22334455-xyz.jpg",
-    "description": "Features a case that can be flipped over to protect the crystal."
+    "description": "Features a case that can be flipped over to protect the crystal.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -422,7 +446,8 @@
     "priceUSD": 28500,
     "priceRange": "$25,000 - $32,000",
     "image": "https://static.chrono24.com/images/uhren/11447788-abc.jpg",
-    "description": "Inspired by the architecture of Chinese temples."
+    "description": "Inspired by the architecture of Chinese temples.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/tank/tank-chinoise-watch-CRWGTA0088"
   },
   {
     "brand": "Cartier",
@@ -439,7 +464,8 @@
     "priceUSD": 7500,
     "priceRange": "$6,000 - $7,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/WSPA0022_0.png",
-    "description": "Iconic Pasha design with a functional GMT complication for travelers."
+    "description": "Iconic Pasha design with a functional GMT complication for travelers.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -456,7 +482,8 @@
     "priceUSD": 15400,
     "priceRange": "$12,000 - $16,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WBNM0011_0.png",
-    "description": "Ultra-thin, refined cushion-shaped dress watch."
+    "description": "Ultra-thin, refined cushion-shaped dress watch.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -473,7 +500,8 @@
     "priceUSD": 3300,
     "priceRange": "$3,000 - $4,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32561b34/images/images-bin/WSTA0072_0.png",
-    "description": "Minimalist black lacquer dial with no numerals, a return to 70s style."
+    "description": "Minimalist black lacquer dial with no numerals, a return to 70s style.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -490,7 +518,8 @@
     "priceUSD": 7750,
     "priceRange": "$7,000 - $9,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw83226a45/images/images-bin/WSSA0062_0.png",
-    "description": "Iconic Santos with a vibrant sun-brushed green dial."
+    "description": "Iconic Santos with a vibrant sun-brushed green dial.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/santos-de-cartier/santos-de-cartier-CRWSSA0062"
   },
   {
     "brand": "Cartier",
@@ -507,7 +536,8 @@
     "priceUSD": 38000,
     "priceRange": "$30,000 - $45,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WJBA0015_0.png",
-    "description": "An exaggerated, elongated oval with 'Clous de Paris' texture on the case."
+    "description": "An exaggerated, elongated oval with 'Clous de Paris' texture on the case.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/baignoire/baignoire-watch-CRWJBA0015"
   },
   {
     "brand": "Cartier",
@@ -524,7 +554,8 @@
     "priceUSD": 12000,
     "priceRange": "$6,000 - $9,000",
     "image": "https://static.chrono24.com/images/uhren/11223344-xyz.jpg",
-    "description": "Unique landscape-oriented Tank, wide and elegant."
+    "description": "Unique landscape-oriented Tank, wide and elegant.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -541,7 +572,8 @@
     "priceUSD": 9500,
     "priceRange": "$6,500 - $8,500",
     "image": "https://static.chrono24.com/images/uhren/44558899-abc.jpg",
-    "description": "Classical round chronograph with refined proportions."
+    "description": "Classical round chronograph with refined proportions.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -558,7 +590,8 @@
     "priceUSD": 3500,
     "priceRange": "$4,000 - $6,000",
     "image": "https://static.chrono24.com/images/uhren/77881122-abc.jpg",
-    "description": "The curved version of the Santos that defined the brand's 2000s look."
+    "description": "The curved version of the Santos that defined the brand's 2000s look.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -575,7 +608,8 @@
     "priceUSD": 60000,
     "powerRange": "$50,000 - $75,000",
     "image": "https://static.chrono24.com/images/uhren/22335566-abc.jpg",
-    "description": "Curved manual-wind skeleton movement that follows the shape of the case."
+    "description": "Curved manual-wind skeleton movement that follows the shape of the case.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -592,7 +626,8 @@
     "priceUSD": 19000,
     "priceRange": "$18,000 - $24,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WGPA0019_0.png",
-    "description": "Features a protective removable grid over the dial, a 1980s heritage detail."
+    "description": "Features a protective removable grid over the dial, a 1980s heritage detail.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -609,7 +644,8 @@
     "priceUSD": 44700,
     "priceRange": "$50,000 - $80,000",
     "image": "https://static.chrono24.com/images/uhren/44557788-abc.jpg",
-    "description": "Rare 1970s 'baseball' design reissued in a limited run of 150 pieces."
+    "description": "Rare 1970s 'baseball' design reissued in a limited run of 150 pieces.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -626,7 +662,8 @@
     "priceUSD": 6200,
     "priceRange": "$4,000 - $5,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/W6920071_0.png",
-    "description": "Soft pink guilloché dial version of the popular round icon."
+    "description": "Soft pink guilloché dial version of the popular round icon.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRW6920071"
   },
   {
     "brand": "Cartier",
@@ -643,7 +680,8 @@
     "priceUSD": 3850,
     "priceRange": "$3,000 - $3,800",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/WSTA0016_0.png",
-    "description": "Petite and elegant version of the curved Americaine."
+    "description": "Petite and elegant version of the curved Americaine.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -660,7 +698,8 @@
     "priceUSD": 4650,
     "priceRange": "$2,500 - $3,500",
     "image": "https://static.chrono24.com/images/uhren/12312312-abc.jpg",
-    "description": "A sportier, more casual take on the round Cartier aesthetic."
+    "description": "A sportier, more casual take on the round Cartier aesthetic.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -677,7 +716,8 @@
     "priceUSD": 31100,
     "priceRange": "$30,000 - $40,000",
     "image": "https://static.chrono24.com/images/uhren/33221100-abc.jpg",
-    "description": "Bell-shaped watch that can be used as a desk clock when set on its side."
+    "description": "Bell-shaped watch that can be used as a desk clock when set on its side.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -694,7 +734,8 @@
     "priceUSD": 18000,
     "priceRange": "$25,000 - $35,000",
     "image": "https://static.chrono24.com/images/uhren/44332211-abc.jpg",
-    "description": "Limited edition platinum Santos Dumont celebrating the aviator's first aircraft."
+    "description": "Limited edition platinum Santos Dumont celebrating the aviator's first aircraft.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -711,7 +752,8 @@
     "priceUSD": 10300,
     "priceRange": "$6,000 - $8,000",
     "image": "https://static.chrono24.com/images/uhren/55667788-abc.jpg",
-    "description": "The largest and most masculine of the Tank collection."
+    "description": "The largest and most masculine of the Tank collection.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -728,7 +770,8 @@
     "priceUSD": 4150,
     "priceRange": "$3,500 - $4,200",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSPN0006_0.png",
-    "description": "The iconic petite Panthère, perfect for any occasion."
+    "description": "The iconic petite Panthère, perfect for any occasion.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -745,7 +788,8 @@
     "priceUSD": 26000,
     "priceRange": "$22,000 - $30,000",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32561b34/images/images-bin/WJPA0016_0.png",
-    "description": "Rose gold lady's Pasha with a diamond-set protective grid."
+    "description": "Rose gold lady's Pasha with a diamond-set protective grid.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -762,7 +806,8 @@
     "priceUSD": 6300,
     "priceRange": "$4,000 - $5,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/W6920046_0.png",
-    "description": "Mid-size Ballon Bleu that suits both men and women."
+    "description": "Mid-size Ballon Bleu that suits both men and women.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/ballon-de-cartier/ballon-bleu-de-cartier-watch-CRW6920046"
   },
   {
     "brand": "Cartier",
@@ -779,7 +824,8 @@
     "priceUSD": 16000,
     "priceRange": "$12,000 - $15,000",
     "image": "https://static.chrono24.com/images/uhren/99887766-abc.jpg",
-    "description": "The ultra-thin manual-wind expression of the grand Tank icon."
+    "description": "The ultra-thin manual-wind expression of the grand Tank icon.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -796,7 +842,8 @@
     "priceUSD": 28000,
     "priceRange": "$18,000 - $24,000",
     "image": "https://static.chrono24.com/images/uhren/11445566-abc.jpg",
-    "description": "Features a retrograde minute hand and a sun/moon day-night indicator."
+    "description": "Features a retrograde minute hand and a sun/moon day-night indicator.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Cartier",
@@ -813,7 +860,8 @@
     "priceUSD": 8050,
     "priceRange": "$7,000 - $8,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1068f69d/images/images-bin/WSSA0037_0.png",
-    "description": "Features a black ADLC bezel on a grey dial for a modern look."
+    "description": "Features a black ADLC bezel on a grey dial for a modern look.",
+    "officialUrl": "https://www.cartier.com/de-at/watches/collections/santos-de-cartier/santos-de-cartier-CRWSSA0037"
   },
   {
     "brand": "Cartier",
@@ -830,7 +878,8 @@
     "priceUSD": 3300,
     "priceRange": "$3,500 - $4,500",
     "image": "https://www.cartier.com/dw/image/v2/Bbfp_PRD/on/demandware.static/-/Sites-cartier-master/default/dw78676f62/images/images-bin/WSTA0054_0.png",
-    "description": "Vibrant burgundy dial that pays homage to the 1970s Les Must de Cartier."
+    "description": "Vibrant burgundy dial that pays homage to the 1970s Les Must de Cartier.",
+    "officialUrl": "https://www.cartier.com/en-hk/watches/collections/tank/tank-must-watch-CRWSTA0054"
   },
   {
     "brand": "Cartier",
@@ -847,6 +896,7 @@
     "priceUSD": 23000,
     "priceRange": "$20,000 - $26,000",
     "image": "https://static.chrono24.com/images/uhren/66554433-abc.jpg",
-    "description": "The second oldest Cartier watch shape, elegantly curved for the wrist."
+    "description": "The second oldest Cartier watch shape, elegantly curved for the wrist.",
+    "officialUrlStatus": "not_found"
   }
 ]
