@@ -53,6 +53,7 @@ describe('App Component', () => {
       json: async () => [],
     })));
     vi.spyOn(window, 'scrollTo').mockImplementation(() => {});
+    vi.spyOn(window, 'open').mockImplementation(() => null);
     // Clear localStorage before each test to ensure a clean state
     localStorage.clear();
     // Reset document theme
@@ -154,5 +155,71 @@ describe('App Component', () => {
     expect(leaveTween).not.toHaveProperty('maxWidth');
     expect(leaveTween).not.toHaveProperty('xPercent');
     expect(leaveTween).not.toHaveProperty('yPercent');
+  });
+
+  it('opens the official model URL when the watch has one', async () => {
+    fetch.mockResolvedValue({
+      ok: true,
+      json: async () => [
+        {
+          brand: 'Rolex',
+          name: 'Submariner Date',
+          reference: '126610LN',
+          collection: 'Submariner',
+          class: 'Diver',
+          image: 'https://example.com/submariner.png',
+          description: 'Officially linked model.',
+          officialUrl: 'https://www.rolex.com/en-us/watches/submariner/m126610ln-0001',
+        },
+      ],
+    });
+
+    render(<App />);
+
+    fireEvent.click(screen.getByRole('button', { name: /^brands$/i }));
+    fireEvent.click(screen.getByText(/^Rolex$/i));
+    fireEvent.click(await screen.findByText(/^Submariner Date$/i));
+    fireEvent.click(screen.getByRole('button', { name: /enquire on official site/i }));
+
+    expect(window.open).toHaveBeenCalledWith(
+      'https://www.rolex.com/en-us/watches/submariner/m126610ln-0001',
+      '_blank',
+      'noopener,noreferrer'
+    );
+    expect(screen.getByText(/Opening official model page for 126610LN/i)).toBeInTheDocument();
+  });
+
+  it('warns when a specific model was not found on the official site', async () => {
+    fetch.mockResolvedValue({
+      ok: true,
+      json: async () => [
+        {
+          brand: 'Rolex',
+          name: 'Unlisted Reference',
+          reference: 'UNKNOWN-1',
+          collection: 'Archive',
+          class: 'Dress',
+          image: 'https://example.com/unlisted.png',
+          description: 'No official model URL.',
+          officialUrlStatus: 'not_found',
+        },
+      ],
+    });
+
+    render(<App />);
+
+    fireEvent.click(screen.getByRole('button', { name: /^brands$/i }));
+    fireEvent.click(screen.getByText(/^Rolex$/i));
+    fireEvent.click(await screen.findByText(/^Unlisted Reference$/i));
+
+    expect(screen.getByText(/was not found on the official Rolex site/i)).toBeInTheDocument();
+
+    fireEvent.click(screen.getByRole('button', { name: /enquire on official site/i }));
+
+    expect(window.open).toHaveBeenCalledWith(
+      'https://www.rolex.com/',
+      '_blank',
+      'noopener,noreferrer'
+    );
   });
 });

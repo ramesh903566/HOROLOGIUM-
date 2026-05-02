@@ -14,7 +14,8 @@
     "priceUSD": 10250,
     "priceRange": "$13,000 - $15,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-submariner-m126610ln-0001",
-    "description": "The benchmark for divers' watches, featuring a black Cerachrom bezel."
+    "description": "The benchmark for divers' watches, featuring a black Cerachrom bezel.",
+    "officialUrl": "https://www.rolex.com/watches/submariner/m126610ln-0001"
   },
   {
     "brand": "Rolex",
@@ -31,7 +32,8 @@
     "priceUSD": 15100,
     "priceRange": "$32,000 - $38,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-cosmograph-daytona-m126500ln-0001",
-    "description": "The most sought-after chronograph in the world with a white dial and black rings."
+    "description": "The most sought-after chronograph in the world with a white dial and black rings.",
+    "officialUrl": "https://www.rolex.com/watches/cosmograph-daytona/m126500ln-0001"
   },
   {
     "brand": "Rolex",
@@ -48,7 +50,8 @@
     "priceUSD": 10900,
     "priceRange": "$19,000 - $22,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-gmt-master-ii-m126710blro-0001",
-    "description": "Iconic pilot's watch with a red and blue bidirectional Cerachrom bezel."
+    "description": "Iconic pilot's watch with a red and blue bidirectional Cerachrom bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -65,7 +68,8 @@
     "priceUSD": 10250,
     "priceRange": "$12,000 - $14,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-datejust-m126334-0002",
-    "description": "A classic watch of reference, featuring a fluted bezel and Jubilee bracelet."
+    "description": "A classic watch of reference, featuring a fluted bezel and Jubilee bracelet.",
+    "officialUrl": "https://www.rolex.com/watches/datejust/m126334-0001"
   },
   {
     "brand": "Rolex",
@@ -82,7 +86,8 @@
     "priceUSD": 7700,
     "priceRange": "$8,500 - $10,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-explorer-m224270-0001",
-    "description": "The quintessential mountaineering watch, now in a larger 40mm case."
+    "description": "The quintessential mountaineering watch, now in a larger 40mm case.",
+    "officialUrl": "https://www.rolex.com/watches/explorer/m224270-0001"
   },
   {
     "brand": "Rolex",
@@ -99,7 +104,8 @@
     "priceUSD": 14150,
     "priceRange": "$15,000 - $17,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-rolex-deepsea-m136660-0004",
-    "description": "An ultra-resistant divers' watch engineered for deep-sea exploration."
+    "description": "An ultra-resistant divers' watch engineered for deep-sea exploration.",
+    "officialUrl": "https://www.rolex.com/watches/deepsea/m136660-0005"
   },
   {
     "brand": "Rolex",
@@ -116,7 +122,8 @@
     "priceUSD": 41500,
     "priceRange": "$55,000 - $65,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-day-date-m228235-0025",
-    "description": "The 'President's watch' in Everose gold with a striking olive green dial."
+    "description": "The 'President's watch' in Everose gold with a striking olive green dial.",
+    "officialUrl": "https://www.rolex.com/watches/day-date/m228235-0001"
   },
   {
     "brand": "Rolex",
@@ -133,7 +140,8 @@
     "priceUSD": 7450,
     "priceRange": "$8,500 - $10,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-air-king-m126900-0001",
-    "description": "A tribute to aviation with a distinctive black dial and large minute scale."
+    "description": "A tribute to aviation with a distinctive black dial and large minute scale.",
+    "officialUrl": "https://www.rolex.com/watches/air-king/m126900-0001"
   },
   {
     "brand": "Rolex",
@@ -150,7 +158,8 @@
     "priceUSD": 9150,
     "priceRange": "$11,000 - $13,500",
     "image": "https://static.chrono24.com/images/uhren/25443322-1a2b3c4d5e6f.jpg",
-    "description": "Engineered for scientists, featuring a green sapphire crystal and blue dial."
+    "description": "Engineered for scientists, featuring a green sapphire crystal and blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -167,7 +176,8 @@
     "priceUSD": 14050,
     "priceRange": "$25,000 - $35,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-yacht-master-m226627-0001",
-    "description": "Rolex's first all-titanium sports watch, designed for the open seas."
+    "description": "Rolex's first all-titanium sports watch, designed for the open seas.",
+    "officialUrl": "https://www.rolex.com/watches/yacht-master/m226627-0001"
   },
   {
     "brand": "Rolex",
@@ -184,7 +194,8 @@
     "priceUSD": 15650,
     "priceRange": "$22,000 - $26,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-sky-dweller-m336934-0001",
-    "description": "Features an annual calendar and dual time zone for world travelers."
+    "description": "Features an annual calendar and dual time zone for world travelers.",
+    "officialUrl": "https://www.rolex.com/watches/sky-dweller/m336934-0001"
   },
   {
     "brand": "Rolex",
@@ -201,7 +212,8 @@
     "priceUSD": 9650,
     "priceRange": "$11,500 - $13,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-explorer-ii-m226570-0001",
-    "description": "Designed for cave explorers with a distinctive 24-hour orange hand."
+    "description": "Designed for cave explorers with a distinctive 24-hour orange hand.",
+    "officialUrl": "https://www.rolex.com/watches/explorer-ii/m226570-0001"
   },
   {
     "brand": "Rolex",
@@ -218,7 +230,8 @@
     "priceUSD": 6400,
     "priceRange": "$14,000 - $18,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-oyster-perpetual-m124300-0008",
-    "description": "Features a playful 'Bubbles' dial in various lacquer colors."
+    "description": "Features a playful 'Bubbles' dial in various lacquer colors.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -235,7 +248,8 @@
     "priceUSD": 30900,
     "priceRange": "$35,000 - $45,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-perpetual-1908-m52506-0002",
-    "description": "A refined dress watch with an ice blue rice-grain motif dial."
+    "description": "A refined dress watch with an ice blue rice-grain motif dial.",
+    "officialUrl": "https://www.rolex.com/watches/1908/m52506-0003"
   },
   {
     "brand": "Rolex",
@@ -252,7 +266,8 @@
     "priceUSD": 9050,
     "priceRange": "$22,000 - $26,000",
     "image": "https://static.chrono24.com/images/uhren/28225672-9p5g1w8j3f5l4n2m8q9r.jpg",
-    "description": "The legendary green dial and green bezel Submariner."
+    "description": "The legendary green dial and green bezel Submariner.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -269,7 +284,8 @@
     "priceUSD": 10900,
     "priceRange": "$17,000 - $19,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-gmt-master-ii-m126710blnr-0002",
-    "description": "Features the blue and black Cerachrom bezel on a Jubilee bracelet."
+    "description": "Features the blue and black Cerachrom bezel on a Jubilee bracelet.",
+    "officialUrl": "https://www.rolex.com/watches/gmt-master-ii/m126710blnr-0002"
   },
   {
     "brand": "Rolex",
@@ -286,7 +302,8 @@
     "priceUSD": 51400,
     "priceRange": "$200,000 - $300,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-cosmograph-daytona-m126529ln-0001",
-    "description": "Special edition celebrating the 100th anniversary of the 24 Hours of Le Mans."
+    "description": "Special edition celebrating the 100th anniversary of the 24 Hours of Le Mans.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -303,7 +320,8 @@
     "priceUSD": 13250,
     "priceRange": "$14,000 - $16,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-sea-dweller-m126600-0001",
-    "description": "The professional divers' watch with a red 'Sea-Dweller' text."
+    "description": "The professional divers' watch with a red 'Sea-Dweller' text.",
+    "officialUrl": "https://www.rolex.com/watches/sea-dweller/m126600-0002"
   },
   {
     "brand": "Rolex",
@@ -320,7 +338,8 @@
     "priceUSD": 7450,
     "priceRange": "$9,000 - $11,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-datejust-m126200-0020",
-    "description": "A modern classic featuring a green palm-leaf inspired dial."
+    "description": "A modern classic featuring a green palm-leaf inspired dial.",
+    "officialUrl": "https://www.rolex.com/watches/datejust/m126200-0001"
   },
   {
     "brand": "Rolex",
@@ -337,7 +356,8 @@
     "priceUSD": 26000,
     "priceRange": "$35,000 - $45,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-rolex-deepsea-challenge-m126067-0001",
-    "description": "Experimental watch capable of reaching the deepest parts of the ocean."
+    "description": "Experimental watch capable of reaching the deepest parts of the ocean.",
+    "officialUrl": "https://www.rolex.com/watches/deepsea/m126067-0002"
   },
   {
     "brand": "Rolex",
@@ -354,7 +374,8 @@
     "priceUSD": 60000,
     "priceRange": "$100,000 - $150,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-day-date-m128238-0106",
-    "description": "Features a puzzle-motif dial and replaces days/dates with emojis and emotions."
+    "description": "Features a puzzle-motif dial and replaces days/dates with emojis and emotions.",
+    "officialUrl": "https://www.rolex.com/watches/day-date/m128238-0008"
   },
   {
     "brand": "Rolex",
@@ -371,7 +392,8 @@
     "priceUSD": 18700,
     "priceRange": "$17,000 - $20,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-yacht-master-ii-m116680-0002",
-    "description": "Features a unique programmable countdown for regatta racing."
+    "description": "Features a unique programmable countdown for regatta racing.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -388,7 +410,8 @@
     "priceUSD": 6100,
     "priceRange": "$10,000 - $13,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-oyster-perpetual-m126000-0008",
-    "description": "Vibrant candy pink lacquer dial in a perfectly sized 36mm case."
+    "description": "Vibrant candy pink lacquer dial in a perfectly sized 36mm case.",
+    "officialUrl": "https://www.rolex.com/watches/oyster-perpetual/m126000-0008"
   },
   {
     "brand": "Rolex",
@@ -405,7 +428,8 @@
     "priceUSD": 26750,
     "priceRange": "$25,000 - $30,000",
     "image": "https://static.chrono24.com/images/uhren/11223344-xyz.jpg",
-    "description": "An elegant dress watch with a meteorite moon phase disc."
+    "description": "An elegant dress watch with a meteorite moon phase disc.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -422,7 +446,8 @@
     "priceUSD": 9100,
     "priceRange": "$11,500 - $13,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-submariner-m124060-0001",
-    "description": "The purest form of the Submariner, without the date window."
+    "description": "The purest form of the Submariner, without the date window.",
+    "officialUrl": "https://www.rolex.com/watches/submariner/m124060-0001"
   },
   {
     "brand": "Rolex",
@@ -439,7 +464,8 @@
     "priceUSD": 9150,
     "priceRange": "$10,000 - $12,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-milgauss-m116400gv-0001",
-    "description": "Features the iconic lightning bolt second hand and green sapphire."
+    "description": "Features the iconic lightning bolt second hand and green sapphire.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -456,7 +482,8 @@
     "priceUSD": 16150,
     "priceRange": "$20,000 - $24,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-gmt-master-ii-m126711chnr-0002",
-    "description": "Elegant two-tone GMT with a brown and black Cerachrom bezel."
+    "description": "Elegant two-tone GMT with a brown and black Cerachrom bezel.",
+    "officialUrl": "https://www.rolex.com/watches/gmt-master-ii/m126711chnr-0002"
   },
   {
     "brand": "Rolex",
@@ -473,7 +500,8 @@
     "priceUSD": 8500,
     "priceRange": "$30,000 - $50,000",
     "image": "https://hodinkee.imgix.net/rolex-daytona-16520-guide.jpg",
-    "description": "The first automatic Daytona, powered by a modified Zenith El Primero."
+    "description": "The first automatic Daytona, powered by a modified Zenith El Primero.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -490,7 +518,8 @@
     "priceUSD": 14450,
     "priceRange": "$16,000 - $18,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-rolex-deepsea-m136660-0003",
-    "description": "Features a D-blue gradient dial commemorating the Deepsea Challenge."
+    "description": "Features a D-blue gradient dial commemorating the Deepsea Challenge.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -507,7 +536,8 @@
     "priceUSD": 50900,
     "priceRange": "$55,000 - $65,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-sky-dweller-m336935-0001",
-    "description": "Full Everose gold GMT and Annual Calendar for global travelers."
+    "description": "Full Everose gold GMT and Annual Calendar for global travelers.",
+    "officialUrl": "https://www.rolex.com/watches/sky-dweller/m336935-0001"
   },
   {
     "brand": "Rolex",
@@ -524,7 +554,8 @@
     "priceUSD": 10500,
     "priceRange": "$12,000 - $15,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-datejust-m278274-0036",
-    "description": "Features a stunning blue floral-motif dial with 24 diamonds."
+    "description": "Features a stunning blue floral-motif dial with 24 diamonds.",
+    "officialUrl": "https://www.rolex.com/watches/datejust/m278274-0001"
   },
   {
     "brand": "Rolex",
@@ -541,7 +572,8 @@
     "priceUSD": 7250,
     "priceRange": "$8,000 - $9,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-explorer-m124270-0001",
-    "description": "The classic Explorer size returned to its original 36mm proportions."
+    "description": "The classic Explorer size returned to its original 36mm proportions.",
+    "officialUrl": "https://www.rolex.com/watches/explorer/m124270-0001"
   },
   {
     "brand": "Rolex",
@@ -558,7 +590,8 @@
     "priceUSD": 41000,
     "priceRange": "$80,000 - $110,000",
     "image": "https://static.chrono24.com/images/uhren/33445566-abc.jpg",
-    "description": "Features a rare meteorite dial, each unique in its Widmanstätten pattern."
+    "description": "Features a rare meteorite dial, each unique in its Widmanstätten pattern.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -575,7 +608,8 @@
     "priceUSD": 10900,
     "priceRange": "$18,000 - $22,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-gmt-master-ii-m126710grnr-0003",
-    "description": "The latest GMT with a black and grey bezel on a Jubilee bracelet."
+    "description": "The latest GMT with a black and grey bezel on a Jubilee bracelet.",
+    "officialUrl": "https://www.rolex.com/watches/gmt-master-ii/m126710grnr-0003"
   },
   {
     "brand": "Rolex",
@@ -592,7 +626,8 @@
     "priceUSD": 12300,
     "priceRange": "$14,000 - $16,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-yacht-master-m126622-0001",
-    "description": "Features a slate dial and platinum bezel with a blue second hand."
+    "description": "Features a slate dial and platinum bezel with a blue second hand.",
+    "officialUrl": "https://www.rolex.com/watches/yacht-master/m126622-0001"
   },
   {
     "brand": "Rolex",
@@ -609,7 +644,8 @@
     "priceUSD": 40600,
     "priceRange": "$40,000 - $45,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-submariner-m126619lb-0003",
-    "description": "Solid white gold Submariner with a blue Cerachrom bezel."
+    "description": "Solid white gold Submariner with a blue Cerachrom bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -626,7 +662,8 @@
     "priceUSD": 63000,
     "priceRange": "$70,000 - $85,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-day-date-m228236-0012",
-    "description": "The ultimate Rolex, featuring a fluted platinum bezel and ice blue dial."
+    "description": "The ultimate Rolex, featuring a fluted platinum bezel and ice blue dial.",
+    "officialUrl": "https://www.rolex.com/watches/day-date/m228236-0002"
   },
   {
     "brand": "Rolex",
@@ -643,7 +680,8 @@
     "priceUSD": 9650,
     "priceRange": "$11,000 - $12,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-explorer-ii-m226570-0002",
-    "description": "Professional tool watch with a 24-hour bezel for polar exploration."
+    "description": "Professional tool watch with a 24-hour bezel for polar exploration.",
+    "officialUrl": "https://www.rolex.com/watches/explorer-ii/m226570-0002"
   },
   {
     "brand": "Rolex",
@@ -660,7 +698,8 @@
     "priceUSD": 400,
     "priceRange": "$3,500 - $5,500",
     "image": "https://static.chrono24.com/images/uhren/22334455-xyz.jpg",
-    "description": "The long-running vintage Air-King known for its simple, elegant dial."
+    "description": "The long-running vintage Air-King known for its simple, elegant dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -677,7 +716,8 @@
     "priceUSD": 37550,
     "priceRange": "$75,000 - $95,000",
     "image": "https://static.chrono24.com/images/uhren/12345678-abcd.jpg",
-    "description": "The famous green dial yellow gold Daytona popularized by John Mayer."
+    "description": "The famous green dial yellow gold Daytona popularized by John Mayer.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -694,7 +734,8 @@
     "priceUSD": 6400,
     "priceRange": "$18,000 - $24,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-oyster-perpetual-m124300-0006",
-    "description": "The highly-coveted 'Tiffany Blue' dial Oyster Perpetual."
+    "description": "The highly-coveted 'Tiffany Blue' dial Oyster Perpetual.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -711,7 +752,8 @@
     "priceUSD": 13700,
     "priceRange": "$15,000 - $17,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-datejust-m126333-0010",
-    "description": "Features a slate dial with green-outlined Roman numerals."
+    "description": "Features a slate dial with green-outlined Roman numerals.",
+    "officialUrl": "https://www.rolex.com/watches/datejust/m126333-0001"
   },
   {
     "brand": "Rolex",
@@ -728,7 +770,8 @@
     "priceUSD": 24050,
     "priceRange": "$22,000 - $26,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-yacht-master-m268655-0002",
-    "description": "Features a black matte Cerachrom bezel and Oysterflex bracelet."
+    "description": "Features a black matte Cerachrom bezel and Oysterflex bracelet.",
+    "officialUrl": "https://www.rolex.com/watches/yacht-master/m268655-0017"
   },
   {
     "brand": "Rolex",
@@ -745,7 +788,8 @@
     "priceUSD": 1200,
     "priceRange": "$12,000 - $20,000",
     "image": "https://hodinkee.imgix.net/rolex-sea-dweller-16660-guide.jpg",
-    "description": "The transitional Sea-Dweller that introduced the sapphire crystal."
+    "description": "The transitional Sea-Dweller that introduced the sapphire crystal.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -762,7 +806,8 @@
     "priceUSD": 3500,
     "priceRange": "$12,000 - $16,000",
     "image": "https://static.chrono24.com/images/uhren/44556677-abc.jpg",
-    "description": "Classic GMT-Master II with a red and black 'Coke' bezel."
+    "description": "Classic GMT-Master II with a red and black 'Coke' bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -779,7 +824,8 @@
     "priceUSD": 96900,
     "priceRange": "$400,000 - $700,000",
     "image": "https://static.chrono24.com/images/uhren/66778899-abc.jpg",
-    "description": "Breathtakingly set with rainbow sapphires and diamonds."
+    "description": "Breathtakingly set with rainbow sapphires and diamonds.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Rolex",
@@ -796,7 +842,8 @@
     "priceUSD": 8950,
     "priceRange": "$11,000 - $13,500",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-datejust-m126234-0050",
-    "description": "Features a unique blue dial with a fluted-motif pattern."
+    "description": "Features a unique blue dial with a fluted-motif pattern.",
+    "officialUrl": "https://www.rolex.com/watches/datejust/m126234-0013"
   },
   {
     "brand": "Rolex",
@@ -813,7 +860,8 @@
     "priceUSD": 15900,
     "priceRange": "$19,000 - $23,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-sky-dweller-m336934-0004",
-    "description": "The complex Sky-Dweller on a comfortable Jubilee bracelet."
+    "description": "The complex Sky-Dweller on a comfortable Jubilee bracelet.",
+    "officialUrl": "https://www.rolex.com/watches/sky-dweller/m336934-0004"
   },
   {
     "brand": "Rolex",
@@ -830,7 +878,8 @@
     "priceUSD": 10800,
     "priceRange": "$15,000 - $18,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-submariner-m126610lv-0002",
-    "description": "The current green bezel Submariner with a black dial."
+    "description": "The current green bezel Submariner with a black dial.",
+    "officialUrl": "https://www.rolex.com/watches/submariner/m126610lv-0002"
   },
   {
     "brand": "Rolex",
@@ -847,6 +896,7 @@
     "priceUSD": 35000,
     "priceRange": "$50,000 - $70,000",
     "image": "https://media.rolex.com/image/upload/q_auto:eco/v1/watches/family-cards/rolex-watches-day-date-m128238-0069",
-    "description": "Yellow gold Day-Date with a natural turquoise stone dial."
+    "description": "Yellow gold Day-Date with a natural turquoise stone dial.",
+    "officialUrl": "https://www.rolex.com/watches/day-date/m128238-0069"
   }
 ]

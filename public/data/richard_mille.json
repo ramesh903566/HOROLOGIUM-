@@ -14,7 +14,8 @@
     "priceUSD": 175000,
     "priceRange": "$280,000 - $350,000",
     "image": "https://static.chrono24.com/images/uhren/28225672-9p5g1w8j3f5l4n2m8q9r.jpg",
-    "description": "Ultra-lightweight athlete's watch designed for high-jump champion Mutaz Barshim."
+    "description": "Ultra-lightweight athlete's watch designed for high-jump champion Mutaz Barshim.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -31,7 +32,8 @@
     "priceUSD": 191500,
     "priceRange": "$400,000 - $550,000",
     "image": "https://static.chrono24.com/images/uhren/12345678-abcd.jpg",
-    "description": "Inspired by McLaren's automotive design with a carbon TPT flyback chronograph."
+    "description": "Inspired by McLaren's automotive design with a carbon TPT flyback chronograph.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -48,7 +50,8 @@
     "priceUSD": 220000,
     "priceRange": "$450,000 - $600,000",
     "image": "https://static.chrono24.com/images/uhren/33445566-abc.jpg",
-    "description": "Features a patented 'butterfly rotor' allowing the wearer to adjust the winding."
+    "description": "Features a patented 'butterfly rotor' allowing the wearer to adjust the winding.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -65,7 +68,8 @@
     "priceUSD": 95000,
     "priceRange": "$180,000 - $240,000",
     "image": "https://static.chrono24.com/images/uhren/44556677-abc.jpg",
-    "description": "Prevents overwinding by automatically declutching the winding rotor."
+    "description": "Prevents overwinding by automatically declutching the winding rotor.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -82,7 +86,8 @@
     "priceUSD": 75000,
     "priceRange": "$120,000 - $160,000",
     "image": "https://static.chrono24.com/images/uhren/66778899-abc.jpg",
-    "description": "The quintessential skeletonized Richard Mille automatic timepiece."
+    "description": "The quintessential skeletonized Richard Mille automatic timepiece.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -99,7 +104,8 @@
     "priceUSD": 1050000,
     "priceRange": "$2,000,000 - $3,500,000",
     "image": "https://static.chrono24.com/images/uhren/77889900-fff.jpg",
-    "description": "Suspended by a steel cable mesh inspired by tennis rackets, withstands 12,000 Gs."
+    "description": "Suspended by a steel cable mesh inspired by tennis rackets, withstands 12,000 Gs.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-27-04-tourbillon"
   },
   {
     "brand": "Richard Mille",
@@ -116,7 +122,8 @@
     "priceUSD": 120000,
     "priceRange": "$350,000 - $480,000",
     "image": "https://static.chrono24.com/images/uhren/11223344-xyz.jpg",
-    "description": "Manual-wind skeleton watch designed to withstand the shocks of a professional golf swing."
+    "description": "Manual-wind skeleton watch designed to withstand the shocks of a professional golf swing.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -133,7 +140,8 @@
     "priceUSD": 145000,
     "priceRange": "$300,000 - $450,000",
     "image": "https://static.chrono24.com/images/uhren/99001122-abc.jpg",
-    "description": "A luxury 'Baby Nadal' execution in solid rose gold for the Americas market."
+    "description": "A luxury 'Baby Nadal' execution in solid rose gold for the Americas market.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -150,7 +158,8 @@
     "priceUSD": 85000,
     "priceRange": "$150,000 - $220,000",
     "image": "https://static.chrono24.com/images/uhren/22334455-xyz.jpg",
-    "description": "The first flyback chronograph from Richard Mille, named after F1 driver Felipe Massa."
+    "description": "The first flyback chronograph from Richard Mille, named after F1 driver Felipe Massa.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -167,7 +176,8 @@
     "priceUSD": 98000,
     "priceRange": "$160,000 - $210,000",
     "image": "https://static.chrono24.com/images/uhren/11447788-abc.jpg",
-    "description": "An elegantly thin interpretation of the tonneau-shaped automatic Richard Mille."
+    "description": "An elegantly thin interpretation of the tonneau-shaped automatic Richard Mille.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -184,7 +194,8 @@
     "priceUSD": 980000,
     "priceRange": "$1,000,000 - $1,500,000",
     "image": "https://static.chrono24.com/images/uhren/22335566-abc.jpg",
-    "description": "The lightest split-seconds tourbillon chronograph ever made, using graphene."
+    "description": "The lightest split-seconds tourbillon chronograph ever made, using graphene.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -201,7 +212,8 @@
     "priceUSD": 1100000,
     "priceRange": "$1,200,000 - $1,800,000",
     "image": "https://static.chrono24.com/images/uhren/33221100-abc.jpg",
-    "description": "Features a hand-engraved 3N gold Samurai armor motif."
+    "description": "Features a hand-engraved 3N gold Samurai armor motif.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-47-tourbillon"
   },
   {
     "brand": "Richard Mille",
@@ -218,7 +230,8 @@
     "priceUSD": 135000,
     "priceRange": "$250,000 - $350,000",
     "image": "https://static.chrono24.com/images/uhren/44332211-abc.jpg",
-    "description": "Asymmetrical case design tailored for the aerodynamics of sprinting."
+    "description": "Asymmetrical case design tailored for the aerodynamics of sprinting.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -235,7 +248,8 @@
     "priceUSD": 45000,
     "priceRange": "$90,000 - $130,000",
     "image": "https://static.chrono24.com/images/uhren/55667788-abc.jpg",
-    "description": "The first automatic model from Richard Mille with a variable-geometry rotor."
+    "description": "The first automatic model from Richard Mille with a variable-geometry rotor.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -252,7 +266,8 @@
     "priceUSD": 600000,
     "priceRange": "$800,000 - $1,200,000",
     "image": "https://static.chrono24.com/images/uhren/66554433-abc.jpg",
-    "description": "An iconic watch featuring a skull-shaped baseplate in grade 5 titanium."
+    "description": "An iconic watch featuring a skull-shaped baseplate in grade 5 titanium.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -269,7 +284,8 @@
     "priceUSD": 155000,
     "priceRange": "$250,000 - $350,000",
     "image": "https://static.chrono24.com/images/uhren/77881122-abc.jpg",
-    "description": "Part of the Bonbon collection, featuring hand-enameled candy-colored elements."
+    "description": "Part of the Bonbon collection, featuring hand-enameled candy-colored elements.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -286,7 +302,8 @@
     "priceUSD": 135000,
     "priceRange": "$400,000 - $700,000",
     "image": "https://hodinkee.imgix.net/richard-mille-rm001-guide.jpg",
-    "description": "The watch that started it all, the first model released by Richard Mille."
+    "description": "The watch that started it all, the first model released by Richard Mille.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-001-tourbillon"
   },
   {
     "brand": "Richard Mille",
@@ -303,7 +320,8 @@
     "priceUSD": 310000,
     "priceRange": "$450,000 - $550,000",
     "image": "https://static.chrono24.com/images/uhren/99887766-abc.jpg",
-    "description": "A highly complex high-frequency split-seconds chronograph with a rapid winding pusher."
+    "description": "A highly complex high-frequency split-seconds chronograph with a rapid winding pusher.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -320,7 +338,8 @@
     "priceUSD": 135000,
     "priceRange": "$400,000 - $550,000",
     "image": "https://static.chrono24.com/images/uhren/11445566-abc.jpg",
-    "description": "The first automatic model in the Nadal collection, instantly recognizable in red Quartz TPT."
+    "description": "The first automatic model in the Nadal collection, instantly recognizable in red Quartz TPT.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -337,7 +356,8 @@
     "priceUSD": 2020000,
     "priceRange": "$3,000,000 - $5,000,000",
     "image": "https://static.chrono24.com/images/uhren/12312312-abc.jpg",
-    "description": "Features a full sapphire crystal case and a cable-suspended movement."
+    "description": "Features a full sapphire crystal case and a cable-suspended movement.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-56-02-tourbillon-sapphire"
   },
   {
     "brand": "Richard Mille",
@@ -354,7 +374,8 @@
     "priceUSD": 189000,
     "priceRange": "$450,000 - $600,000",
     "image": "https://static.chrono24.com/images/uhren/33225544-abc.jpg",
-    "description": "Dedicated to football manager Roberto Mancini with a match-timing chronograph."
+    "description": "Dedicated to football manager Roberto Mancini with a match-timing chronograph.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -371,7 +392,8 @@
     "priceUSD": 85000,
     "priceRange": "$140,000 - $190,000",
     "image": "https://static.chrono24.com/images/uhren/55443322-abc.jpg",
-    "description": "Elegant skeleton watch with Roman numerals on the dial."
+    "description": "Elegant skeleton watch with Roman numerals on the dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -388,7 +410,8 @@
     "priceUSD": 80000,
     "priceRange": "$100,000 - $140,000",
     "image": "https://static.chrono24.com/images/uhren/66778811-abc.jpg",
-    "description": "Ultra-thin round automatic watch with a micro-rotor."
+    "description": "Ultra-thin round automatic watch with a micro-rotor.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -405,7 +428,8 @@
     "priceUSD": 215000,
     "priceRange": "$500,000 - $700,000",
     "image": "https://static.chrono24.com/images/uhren/77889911-abc.jpg",
-    "description": "Features a case made of Grey Cermet, which is as hard as diamond."
+    "description": "Features a case made of Grey Cermet, which is as hard as diamond.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -422,7 +446,8 @@
     "priceUSD": 65000,
     "priceRange": "$110,000 - $160,000",
     "image": "https://static.chrono24.com/images/uhren/88990011-abc.jpg",
-    "description": "Features a unique gold micro-ball rotor for optimized winding."
+    "description": "Features a unique gold micro-ball rotor for optimized winding.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -439,7 +464,8 @@
     "priceUSD": 1060000,
     "priceRange": "$1,200,000 - $1,700,000",
     "image": "https://static.chrono24.com/images/uhren/99001133-abc.jpg",
-    "description": "White Quartz TPT tourbillon chronograph honoring the 'Iceman' Kimi Räikkönen."
+    "description": "White Quartz TPT tourbillon chronograph honoring the 'Iceman' Kimi Räikkönen.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-50-04-tourbillon-chronograph"
   },
   {
     "brand": "Richard Mille",
@@ -456,7 +482,8 @@
     "priceUSD": 208000,
     "priceRange": "$250,000 - $350,000",
     "image": "https://static.chrono24.com/images/uhren/11223355-abc.jpg",
-    "description": "Evolution of the RM 030 with a refined case and movement architecture."
+    "description": "Evolution of the RM 030 with a refined case and movement architecture.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -473,7 +500,8 @@
     "priceUSD": 980000,
     "priceRange": "$1,100,000 - $1,600,000",
     "image": "https://static.chrono24.com/images/uhren/22334466-abc.jpg",
-    "description": "Striking pink Quartz TPT tourbillon designed for Bubba Watson."
+    "description": "Striking pink Quartz TPT tourbillon designed for Bubba Watson.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -490,7 +518,8 @@
     "priceUSD": 450000,
     "priceRange": "$550,000 - $750,000",
     "image": "https://static.chrono24.com/images/uhren/33445577-abc.jpg",
-    "description": "Manual-wind tourbillon with power reserve and torque indicators."
+    "description": "Manual-wind tourbillon with power reserve and torque indicators.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -507,7 +536,8 @@
     "priceUSD": 65000,
     "priceRange": "$85,000 - $115,000",
     "image": "https://static.chrono24.com/images/uhren/44556688-abc.jpg",
-    "description": "Rectangular extra-flat Richard Mille automatic."
+    "description": "Rectangular extra-flat Richard Mille automatic.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -524,7 +554,8 @@
     "priceUSD": 165000,
     "priceRange": "$180,000 - $250,000",
     "image": "https://static.chrono24.com/images/uhren/55667799-abc.jpg",
-    "description": "A flight computer on the wrist, featuring a complex E6-B slide rule bezel."
+    "description": "A flight computer on the wrist, featuring a complex E6-B slide rule bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -541,7 +572,8 @@
     "priceUSD": 85000,
     "priceRange": "$150,000 - $200,000",
     "image": "https://static.chrono24.com/images/uhren/66778800-abc.jpg",
-    "description": "Features a prominent big date window at 4 o'clock."
+    "description": "Features a prominent big date window at 4 o'clock.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -558,7 +590,8 @@
     "priceUSD": 983000,
     "priceRange": "$1,000,000 - $1,400,000",
     "image": "https://static.chrono24.com/images/uhren/77889922-abc.jpg",
-    "description": "Survival watch made for Sylvester Stallone, featuring a compass and water purification tablets."
+    "description": "Survival watch made for Sylvester Stallone, featuring a compass and water purification tablets.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -575,7 +608,8 @@
     "priceUSD": 135000,
     "priceRange": "$200,000 - $300,000",
     "image": "https://static.chrono24.com/images/uhren/88990022-abc.jpg",
-    "description": "Elegant lady's automatic with a functions selector and oversize date."
+    "description": "Elegant lady's automatic with a functions selector and oversize date.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -592,7 +626,8 @@
     "priceUSD": 140000,
     "priceRange": "$350,000 - $450,000",
     "image": "https://static.chrono24.com/images/uhren/99001144-abc.jpg",
-    "description": "The first watch to feature NTPT carbon, designed for the Lotus F1 team."
+    "description": "The first watch to feature NTPT carbon, designed for the Lotus F1 team.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -609,7 +644,8 @@
     "priceUSD": 145000,
     "priceRange": "$140,000 - $190,000",
     "image": "https://static.chrono24.com/images/uhren/11223366-abc.jpg",
-    "description": "High-performance diving chronograph with an annual calendar."
+    "description": "High-performance diving chronograph with an annual calendar.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -626,7 +662,8 @@
     "priceUSD": 950000,
     "priceRange": "$1,000,000 - $1,300,000",
     "image": "https://static.chrono24.com/images/uhren/22334477-abc.jpg",
-    "description": "Designed to mimic the aerodynamic lines of the McLaren Speedtail."
+    "description": "Designed to mimic the aerodynamic lines of the McLaren Speedtail.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-40-01-automatic-tourbillon-mclaren-speedtail"
   },
   {
     "brand": "Richard Mille",
@@ -643,7 +680,8 @@
     "priceUSD": 85000,
     "priceRange": "$100,000 - $140,000",
     "image": "https://static.chrono24.com/images/uhren/33445588-abc.jpg",
-    "description": "Richard Mille's first round-cased professional divers' watch."
+    "description": "Richard Mille's first round-cased professional divers' watch.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -660,7 +698,8 @@
     "priceUSD": 1200000,
     "priceRange": "$2,500,000 - $3,500,000",
     "image": "https://static.chrono24.com/images/uhren/44556699-abc.jpg",
-    "description": "Features a hand-painted gold Smiley face and whimsical decorative elements."
+    "description": "Features a hand-painted gold Smiley face and whimsical decorative elements.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -677,7 +716,8 @@
     "priceUSD": 145000,
     "priceRange": "$180,000 - $250,000",
     "image": "https://static.chrono24.com/images/uhren/55667700-abc.jpg",
-    "description": "Modern evolution of the thin round RM 033 with Carbon TPT."
+    "description": "Modern evolution of the thin round RM 033 with Carbon TPT.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -694,7 +734,8 @@
     "priceUSD": 140000,
     "priceRange": "$350,000 - $550,000",
     "image": "https://static.chrono24.com/images/uhren/66778811-abc.jpg",
-    "description": "Introduced the functions selector for neutral, winding, and hand-setting."
+    "description": "Introduced the functions selector for neutral, winding, and hand-setting.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -711,7 +752,8 @@
     "priceUSD": 525000,
     "priceRange": "$700,000 - $1,000,000",
     "image": "https://static.chrono24.com/images/uhren/77889922-abc.jpg",
-    "description": "Crafted from a specialized magnesium-aluminum alloy for extreme lightness."
+    "description": "Crafted from a specialized magnesium-aluminum alloy for extreme lightness.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -728,7 +770,8 @@
     "priceUSD": 828000,
     "priceRange": "$900,000 - $1,200,000",
     "image": "https://static.chrono24.com/images/uhren/88990033-abc.jpg",
-    "description": "Features a honeycomb baseplate made of Haynes 214 and Carbon TPT."
+    "description": "Features a honeycomb baseplate made of Haynes 214 and Carbon TPT.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -745,7 +788,8 @@
     "priceUSD": 145000,
     "priceRange": "$400,000 - $600,000",
     "image": "https://static.chrono24.com/images/uhren/99001155-abc.jpg",
-    "description": "The brand's first tourbillon with a second time zone display."
+    "description": "The brand's first tourbillon with a second time zone display.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -762,7 +806,8 @@
     "priceUSD": 180000,
     "priceRange": "$600,000 - $900,000",
     "image": "https://static.chrono24.com/images/uhren/11223377-abc.jpg",
-    "description": "Vibrant blue Quartz TPT edition celebrating 50 years of Jean Todt's career."
+    "description": "Vibrant blue Quartz TPT edition celebrating 50 years of Jean Todt's career.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -779,7 +824,8 @@
     "priceUSD": 135000,
     "priceRange": "$350,000 - $500,000",
     "image": "https://static.chrono24.com/images/uhren/22334488-abc.jpg",
-    "description": "Inspired by the world of sailing and the Perini Navi shipyards."
+    "description": "Inspired by the world of sailing and the Perini Navi shipyards.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -796,7 +842,8 @@
     "priceUSD": 230000,
     "priceRange": "$350,000 - $500,000",
     "image": "https://static.chrono24.com/images/uhren/33445599-abc.jpg",
-    "description": "Features the first in-house integrated flyback chronograph movement."
+    "description": "Features the first in-house integrated flyback chronograph movement.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -813,7 +860,8 @@
     "priceUSD": 969000,
     "priceRange": "$1,500,000 - $2,500,000",
     "image": "https://static.chrono24.com/images/uhren/44556600-abc.jpg",
-    "description": "Features an enameled astronaut's helmet reflecting the Martian landscape."
+    "description": "Features an enameled astronaut's helmet reflecting the Martian landscape.",
+    "officialUrl": "http://www.richardmille.com/historical-models/rm-52-05-tourbillon-pharrell-williams"
   },
   {
     "brand": "Richard Mille",
@@ -830,7 +878,8 @@
     "priceUSD": 450000,
     "priceRange": "$350,000 - $500,000",
     "image": "https://static.chrono24.com/images/uhren/55667711-abc.jpg",
-    "description": "A modern reinterpretation of the classic pocket watch with a tourbillon."
+    "description": "A modern reinterpretation of the classic pocket watch with a tourbillon.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Richard Mille",
@@ -847,6 +896,7 @@
     "priceUSD": 175000,
     "priceRange": "$300,000 - $450,000",
     "image": "https://static.chrono24.com/images/uhren/66778822-abc.jpg",
-    "description": "Features a second time zone indicator and annual calendar."
+    "description": "Features a second time zone indicator and annual calendar.",
+    "officialUrlStatus": "not_found"
   }
 ]

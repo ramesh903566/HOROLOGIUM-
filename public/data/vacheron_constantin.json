@@ -14,7 +14,8 @@
     "priceUSD": 25000,
     "priceRange": "$45,000 - $55,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/14/90/16/0/4500V_110A_B128_front.png",
-    "description": "The ultimate luxury sport watch with an iconic blue sunray dial."
+    "description": "The ultimate luxury sport watch with an iconic blue sunray dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -31,7 +32,8 @@
     "priceUSD": 30200,
     "priceRange": "$22,000 - $28,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/41/3/85180_000G_9230_front.png",
-    "description": "Pure elegance inspired by the minimalist designs of the 1950s."
+    "description": "Pure elegance inspired by the minimalist designs of the 1950s.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/patrimony/85180-000g-9230.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -48,7 +50,8 @@
     "priceUSD": 40400,
     "priceRange": "$35,000 - $45,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/03/5/82035_000R_9359_front.png",
-    "description": "A quirky and legendary cushion-shaped watch with a diagonal dial layout."
+    "description": "A quirky and legendary cushion-shaped watch with a diagonal dial layout.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -65,7 +68,8 @@
     "priceUSD": 13400,
     "priceRange": "$11,000 - $14,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/7/4600E_000A_B442_front.png",
-    "description": "Modern retro style inspired by a Vacheron Constantin reference from 1956."
+    "description": "Modern retro style inspired by a Vacheron Constantin reference from 1956.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/fiftysix/4600e-000a-b442.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -82,7 +86,8 @@
     "priceUSD": 85000,
     "priceRange": "$70,000 - $90,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/20/86/02/8/4305T_000R_B947_front.png",
-    "description": "The pinnacle of classical high horology with an ultra-thin perpetual calendar."
+    "description": "The pinnacle of classical high horology with an ultra-thin perpetual calendar.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/traditionnelle/4305t-000r-b947.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -99,7 +104,8 @@
     "priceUSD": 35600,
     "priceRange": "$40,000 - $55,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/14/90/16/2/5500V_110A_B148_front.png",
-    "description": "Integrated column-wheel chronograph with a versatile blue dial."
+    "description": "Integrated column-wheel chronograph with a versatile blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -116,7 +122,8 @@
     "priceUSD": 45100,
     "priceRange": "$35,000 - $45,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/68/7/5000H_000A_B582_front.png",
-    "description": "Features the legendary 'cow horn' lugs, a tribute to a 1955 design."
+    "description": "Features the legendary 'cow horn' lugs, a tribute to a 1955 design.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/historiques/5000h-000a-b582.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -133,7 +140,8 @@
     "priceUSD": 24200,
     "priceRange": "$18,000 - $22,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/4/82172_000R_9382_front.png",
-    "description": "Classic manual-wind dress watch with small seconds at 6 o'clock."
+    "description": "Classic manual-wind dress watch with small seconds at 6 o'clock.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/traditionnelle/82172-000r-9382.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -150,7 +158,8 @@
     "priceUSD": 30500,
     "priceRange": "$35,000 - $48,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/6/7900V_110A_B334_front.png",
-    "description": "The perfect travel companion with a blue dial and dual time zone indicator."
+    "description": "The perfect travel companion with a blue dial and dual time zone indicator.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -167,7 +176,8 @@
     "priceUSD": 49100,
     "priceRange": "$35,000 - $45,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/0/4000U_000R_B516_front.png",
-    "description": "Double retrograde complication showing the day and the date."
+    "description": "Double retrograde complication showing the day and the date.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/patrimony/4000u-000r-b516.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -184,7 +194,8 @@
     "priceUSD": 130000,
     "priceRange": "$180,000 - $250,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/65/2/4300V_120G_B946_front.png",
-    "description": "Exquisite skeletonized movement in a solid white gold Overseas case."
+    "description": "Exquisite skeletonized movement in a solid white gold Overseas case.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -201,7 +212,8 @@
     "priceUSD": 75000,
     "priceRange": "$80,000 - $110,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/20/86/02/5/4200H_222J_B935_front.png",
-    "description": "Faithful reissue of the legendary 1977 '222' designed by Jorg Hysek."
+    "description": "Faithful reissue of the legendary 1977 '222' designed by Jorg Hysek.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/historiques/4200h-222j-b935.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -218,7 +230,8 @@
     "priceUSD": 27200,
     "priceRange": "$20,000 - $26,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/5/4000E_000A_B548_front.png",
-    "description": "Displays date, day, month, and precision moon phase in steel."
+    "description": "Displays date, day, month, and precision moon phase in steel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -235,7 +248,8 @@
     "priceUSD": 156000,
     "priceRange": "$120,000 - $160,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/9/6000T_000R_B346_front.png",
-    "description": "Features a peripheral rotor and a stunning tourbillon carriage shaped like a Maltese cross."
+    "description": "Features a peripheral rotor and a stunning tourbillon carriage shaped like a Maltese cross.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/traditionnelle/6000t-000r-b346.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -252,7 +266,8 @@
     "priceUSD": 120000,
     "priceRange": "$140,000 - $190,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/18/74/45/7/6000V_110A_B544_front.png",
-    "description": "The peak of the steel Overseas collection, featuring a flying tourbillon."
+    "description": "The peak of the steel Overseas collection, featuring a flying tourbillon.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/overseas/6000v-110a-b544.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -269,7 +284,8 @@
     "priceUSD": 21800,
     "priceRange": "$14,000 - $18,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/41/0/81180_000R_9159_front.png",
-    "description": "A timeless 2-hand dress watch of impeccable purity."
+    "description": "A timeless 2-hand dress watch of impeccable purity.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/patrimony/81180-000r-9159.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -286,7 +302,8 @@
     "priceUSD": 23200,
     "priceRange": "$18,000 - $24,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/6/3110V_000A_B425_front.png",
-    "description": "Features a vintage aesthetic with triple calendar display and 'claw' lugs."
+    "description": "Features a vintage aesthetic with triple calendar display and 'claw' lugs.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -303,7 +320,8 @@
     "priceUSD": 60500,
     "priceRange": "$60,000 - $80,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/65/3/4500V_110R_B705_front.png",
-    "description": "Full rose gold Overseas with a striking blue dial."
+    "description": "Full rose gold Overseas with a striking blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -320,7 +338,8 @@
     "priceUSD": 23500,
     "priceRange": "$18,000 - $22,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/64/4/4605F_110A_B495_front.png",
-    "description": "Elegant lady's piece with a pleated-effect dial and diamond-set bezel."
+    "description": "Elegant lady's piece with a pleated-effect dial and diamond-set bezel.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/egerie/4605f-110a-b495.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -337,7 +356,8 @@
     "priceUSD": 125000,
     "priceRange": "$100,000 - $140,000",
     "image": "https://static.chrono24.com/images/uhren/11223344-xyz.jpg",
-    "description": "Displays time through four windows, leaving space for exceptional hand-engraved art."
+    "description": "Displays time through four windows, leaving space for exceptional hand-engraved art.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -354,7 +374,8 @@
     "priceUSD": 33100,
     "priceRange": "$28,000 - $35,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/03/4/1100S_000R_B430_front.png",
-    "description": "A smaller execution of the iconic American 1921 for mid-size wrists."
+    "description": "A smaller execution of the iconic American 1921 for mid-size wrists.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -371,7 +392,8 @@
     "priceUSD": 35600,
     "priceRange": "$45,000 - $60,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/21/28/92/7/5500V_110A_B686_front.png",
-    "description": "Highly coveted silver dial with black sub-dials, known as the 'Panda'."
+    "description": "Highly coveted silver dial with black sub-dials, known as the 'Panda'.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -388,7 +410,8 @@
     "priceUSD": 49100,
     "priceRange": "$35,000 - $45,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/1/4010U_000G_B330_front.png",
-    "description": "Elegant integration of a moon phase and a retrograde date hand."
+    "description": "Elegant integration of a moon phase and a retrograde date hand.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/patrimony/4010u-000g-b330.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -405,7 +428,8 @@
     "priceUSD": 45100,
     "priceRange": "$35,000 - $42,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/8/4010T_000R_B344_front.png",
-    "description": "A classic complete calendar with the stepped case of the Traditionnelle line."
+    "description": "A classic complete calendar with the stepped case of the Traditionnelle line.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/traditionnelle/4010t-000r-b344.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -422,7 +446,8 @@
     "priceUSD": 16100,
     "priceRange": "$12,000 - $16,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/64/7/1205V_100A_B590_front.png",
-    "description": "Lady's Overseas with a diamond-set bezel and denim-blue dial."
+    "description": "Lady's Overseas with a diamond-set bezel and denim-blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -439,7 +464,8 @@
     "priceUSD": 39500,
     "priceRange": "$28,000 - $35,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/4/4400E_000R_B436_front.png",
-    "description": "Features a day-date display and power reserve indicator in solid gold."
+    "description": "Features a day-date display and power reserve indicator in solid gold.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/fiftysix/4400e-000r-b436.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -456,7 +482,8 @@
     "priceUSD": 28500,
     "priceRange": "$15,000 - $22,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/1/82230_000G_9962_front.png",
-    "description": "Classic tonneau-shaped watch, a silhouette unique to Vacheron Constantin."
+    "description": "Classic tonneau-shaped watch, a silhouette unique to Vacheron Constantin.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -473,7 +500,8 @@
     "priceUSD": 25000,
     "priceRange": "$30,000 - $40,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/14/90/15/9/4500V_110A_B127_front.png",
-    "description": "Clean silver dial version of the versatile 3rd-generation Overseas."
+    "description": "Clean silver dial version of the versatile 3rd-generation Overseas.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -490,7 +518,8 @@
     "priceUSD": 31500,
     "priceRange": "$18,000 - $25,000",
     "image": "https://static.chrono24.com/images/uhren/22334455-xyz.jpg",
-    "description": "One of the thinnest manual-wind watches in the world at only 4.13mm thick."
+    "description": "One of the thinnest manual-wind watches in the world at only 4.13mm thick.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -507,7 +536,8 @@
     "priceUSD": 160000,
     "priceRange": "$120,000 - $150,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/15/0/5000T_000P_B048_front.png",
-    "description": "Grand complication pairing a perpetual calendar with a column-wheel chronograph."
+    "description": "Grand complication pairing a perpetual calendar with a column-wheel chronograph.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -524,7 +554,8 @@
     "priceUSD": 1000000,
     "priceRange": "$800,000 - $1,500,000",
     "image": "https://hodinkee.imgix.net/vacheron-celestia-astronomical.jpg",
-    "description": "A mechanical masterpiece with 23 complications and a 3-week power reserve."
+    "description": "A mechanical masterpiece with 23 complications and a 3-week power reserve.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -541,7 +572,8 @@
     "priceUSD": 75500,
     "priceRange": "$65,000 - $85,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/21/28/92/9/7900V_110R_B709_front.png",
-    "description": "The ultimate luxury traveler's watch in full pink gold with blue dial."
+    "description": "The ultimate luxury traveler's watch in full pink gold with blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -558,7 +590,8 @@
     "priceUSD": 30200,
     "priceRange": "$20,000 - $26,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/41/5/85180_000R_9166_front.png",
-    "description": "Classic and understated, with a subtly domed dial and date at 6."
+    "description": "Classic and understated, with a subtly domed dial and date at 6.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -575,7 +608,8 @@
     "priceUSD": 41200,
     "priceRange": "$25,000 - $35,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/6/85290_000R_9969_front.png",
-    "description": "Features a power reserve, day and date displays on a guilloché dial."
+    "description": "Features a power reserve, day and date displays on a guilloché dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -592,7 +626,8 @@
     "priceUSD": 75500,
     "priceRange": "$70,000 - $90,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/65/6/5500V_110R_B701_front.png",
-    "description": "Integrated flyback chronograph in full rose gold with a blue dial."
+    "description": "Integrated flyback chronograph in full rose gold with a blue dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -609,7 +644,8 @@
     "priceUSD": 40400,
     "priceRange": "$38,000 - $48,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/21/28/92/8/82035_000G_B735_front.png",
-    "description": "Cool white gold execution of the off-centered American 1921 icon."
+    "description": "Cool white gold execution of the off-centered American 1921 icon.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/historiques/82035-000g-b735.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -626,7 +662,8 @@
     "priceUSD": 27200,
     "priceRange": "$20,000 - $26,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/4/4100T_000R_B482_front.png",
-    "description": "Ultra-thin automatic dress watch in a classic 38mm case."
+    "description": "Ultra-thin automatic dress watch in a classic 38mm case.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -643,7 +680,8 @@
     "priceUSD": 95000,
     "priceRange": "$100,000 - $140,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/2/4300V_120R_B064_front.png",
-    "description": "Masterful ultra-thin perpetual calendar in rose gold with silver dial."
+    "description": "Masterful ultra-thin perpetual calendar in rose gold with silver dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -660,7 +698,8 @@
     "priceUSD": 185000,
     "priceRange": "$80,000 - $120,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/03/6/30130_000R_9754_front.png",
-    "description": "Breathtaking tonneau-shaped tourbillon with power reserve indicator."
+    "description": "Breathtaking tonneau-shaped tourbillon with power reserve indicator.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -677,7 +716,8 @@
     "priceUSD": 25000,
     "priceRange": "$32,000 - $42,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/2/4500V_110A_B483_front.png",
-    "description": "Versatile black lacquer dial version of the steel Overseas."
+    "description": "Versatile black lacquer dial version of the steel Overseas.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -694,7 +734,8 @@
     "priceUSD": 38500,
     "priceRange": "$25,000 - $35,000",
     "image": "https://static.chrono24.com/images/uhren/33445566-abc.jpg",
-    "description": "Minimalist platinum dress watch with a sandblasted dial."
+    "description": "Minimalist platinum dress watch with a sandblasted dial.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -711,7 +752,8 @@
     "priceUSD": 290000,
     "priceRange": "$250,000 - $350,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/68/8/5400T_000P_B637_front.png",
-    "description": "A mechanical marvel featuring an ultra-thin split-seconds chronograph with peripheral rotor."
+    "description": "A mechanical marvel featuring an ultra-thin split-seconds chronograph with peripheral rotor.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -728,7 +770,8 @@
     "priceUSD": 51000,
     "priceRange": "$50,000 - $70,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/21/28/92/8/82035_000P_B747_front.png",
-    "description": "Rare platinum edition of the diagonal-dial classic."
+    "description": "Rare platinum edition of the diagonal-dial classic.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -745,7 +788,8 @@
     "priceUSD": 48500,
     "priceRange": "$40,000 - $55,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/19/27/64/5/4605V_110R_B496_front.png",
-    "description": "A luxurious and compact rose gold Overseas for smaller wrists."
+    "description": "A luxurious and compact rose gold Overseas for smaller wrists.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -762,7 +806,8 @@
     "priceUSD": 27200,
     "priceRange": "$18,000 - $24,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/3/4100U_001G_B181_front.png",
-    "description": "Mid-size Patrimony with a discrete date window and diamond-set indexes."
+    "description": "Mid-size Patrimony with a discrete date window and diamond-set indexes.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -779,7 +824,8 @@
     "priceUSD": 41200,
     "priceRange": "$30,000 - $40,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/5/83500_000G_B042_front.png",
-    "description": "Elegant lady's piece with moon phase, power reserve, and a diamond-set bezel."
+    "description": "Elegant lady's piece with moon phase, power reserve, and a diamond-set bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -796,7 +842,8 @@
     "priceUSD": 23500,
     "priceRange": "$18,000 - $25,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/17/28/55/7/4600E_000R_B441_front.png",
-    "description": "Warm rose gold expression of the retro-modern Fiftysix design."
+    "description": "Warm rose gold expression of the retro-modern Fiftysix design.",
+    "officialUrl": "https://www.vacheron-constantin.com/ww/en/collections/fiftysix/4600e-000r-b441.html"
   },
   {
     "brand": "Vacheron Constantin",
@@ -813,7 +860,8 @@
     "priceUSD": 150000,
     "priceRange": "$120,000 - $200,000",
     "image": "https://static.chrono24.com/images/uhren/12345678-abcd.jpg",
-    "description": "Hand-painted Grand Feu enamel dial replicating Marc Chagall's ceiling at the Opera Garnier."
+    "description": "Hand-painted Grand Feu enamel dial replicating Marc Chagall's ceiling at the Opera Garnier.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -830,7 +878,8 @@
     "priceUSD": 41200,
     "priceRange": "$35,000 - $45,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/67/14/8/5500V_000M_B435_front.png",
-    "description": "Two-tone sport chronograph with a silver dial and rose gold bezel."
+    "description": "Two-tone sport chronograph with a silver dial and rose gold bezel.",
+    "officialUrlStatus": "not_found"
   },
   {
     "brand": "Vacheron Constantin",
@@ -847,6 +896,7 @@
     "priceUSD": 155000,
     "priceRange": "$110,000 - $160,000",
     "image": "https://www.vacheron-constantin.com/content/dam/rcq/vac/13/66/42/3/43172_000P_9236_front.png",
-    "description": "Exquisite hand-skeletonized perpetual calendar in a platinum case."
+    "description": "Exquisite hand-skeletonized perpetual calendar in a platinum case.",
+    "officialUrlStatus": "not_found"
   }
 ]
